@@ -1,0 +1,14 @@
+F:\files\programi\Lamda expression\2\bin\Debug\net7.0\2..exe
+F:\files\programi\Lamda expression\2\bin\Debug\net7.0\2..deps.json
+F:\files\programi\Lamda expression\2\bin\Debug\net7.0\2..runtimeconfig.json
+F:\files\programi\Lamda expression\2\bin\Debug\net7.0\2..dll
+F:\files\programi\Lamda expression\2\bin\Debug\net7.0\2..pdb
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..AssemblyInfoInputs.cache
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..AssemblyInfo.cs
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..csproj.CoreCompileInputs.cache
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..dll
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\refint\2..dll
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..pdb
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\2..genruntimeconfig.cache
+F:\files\programi\Lamda expression\2\obj\Debug\net7.0\ref\2..dll

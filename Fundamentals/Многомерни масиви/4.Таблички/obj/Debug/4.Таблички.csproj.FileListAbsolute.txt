@@ -1,0 +1,8 @@
+F:\файлове\programi\Многомерни масиви\4.Таблички\bin\Debug\4.Таблички.exe.config
+F:\файлове\programi\Многомерни масиви\4.Таблички\bin\Debug\4.Таблички.exe
+F:\файлове\programi\Многомерни масиви\4.Таблички\bin\Debug\4.Таблички.pdb
+F:\файлове\programi\Многомерни масиви\4.Таблички\obj\Debug\4.Таблички.csproj.AssemblyReference.cache
+F:\файлове\programi\Многомерни масиви\4.Таблички\obj\Debug\4.Таблички.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Многомерни масиви\4.Таблички\obj\Debug\4.Таблички.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Многомерни масиви\4.Таблички\obj\Debug\4.Таблички.exe
+F:\файлове\programi\Многомерни масиви\4.Таблички\obj\Debug\4.Таблички.pdb

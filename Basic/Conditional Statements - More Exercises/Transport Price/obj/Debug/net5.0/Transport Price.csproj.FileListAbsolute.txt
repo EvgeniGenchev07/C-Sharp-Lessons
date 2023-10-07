@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\Transport Price.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\Transport Price.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\Transport Price.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\Transport Price.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\Transport Price.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\ref\Transport Price.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\bin\Debug\net5.0\Transport Price.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\ref\Transport Price.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Transport Price\obj\Debug\net5.0\Transport Price.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\School Camp.exe
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\School Camp.deps.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\School Camp.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\School Camp.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\School Camp.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\ref\School Camp.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\bin\Debug\net5.0\School Camp.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\ref\School Camp.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\School Camp\obj\Debug\net5.0\School Camp.genruntimeconfig.cache

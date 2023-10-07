@@ -1,0 +1,15 @@
+F:\files\programi\Linear date structures\BucketList\bin\Debug\net6.0\BucketList.exe
+F:\files\programi\Linear date structures\BucketList\bin\Debug\net6.0\BucketList.deps.json
+F:\files\programi\Linear date structures\BucketList\bin\Debug\net6.0\BucketList.runtimeconfig.json
+F:\files\programi\Linear date structures\BucketList\bin\Debug\net6.0\BucketList.dll
+F:\files\programi\Linear date structures\BucketList\bin\Debug\net6.0\BucketList.pdb
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.csproj.AssemblyReference.cache
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.AssemblyInfoInputs.cache
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.AssemblyInfo.cs
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.csproj.CoreCompileInputs.cache
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.dll
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\refint\BucketList.dll
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.pdb
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\BucketList.genruntimeconfig.cache
+F:\files\programi\Linear date structures\BucketList\obj\Debug\net6.0\ref\BucketList.dll

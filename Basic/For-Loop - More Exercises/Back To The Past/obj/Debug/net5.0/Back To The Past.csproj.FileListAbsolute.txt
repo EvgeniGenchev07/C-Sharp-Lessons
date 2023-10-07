@@ -1,0 +1,16 @@
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\Back To The Past.exe
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\Back To The Past.deps.json
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\Back To The Past.runtimeconfig.json
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\Back To The Past.runtimeconfig.dev.json
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\Back To The Past.dll
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\ref\Back To The Past.dll
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\bin\Debug\net5.0\Back To The Past.pdb
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.csproj.AssemblyReference.cache
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.AssemblyInfoInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.AssemblyInfo.cs
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.dll
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\ref\Back To The Past.dll
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.pdb
+F:\файлове\programi\For-Loop - More Exercises\Back To The Past\obj\Debug\net5.0\Back To The Past.genruntimeconfig.cache

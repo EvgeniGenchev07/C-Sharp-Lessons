@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e34bbf6-4c91-4d34-8d43-fcdd96091fcc": {
+      "ProjectGuid": "8e34bbf6-4c91-4d34-8d43-fcdd96091fcc",
+      "DisplayName": "Conditional Statements",
+      "ColorIndex": 0
+    },
+    "7867394a-5301-49e4-b362-9ae98ebf7f0d": {
+      "ProjectGuid": "7867394a-5301-49e4-b362-9ae98ebf7f0d",
+      "DisplayName": "Greater Number",
+      "ColorIndex": 1
+    },
+    "34f54b60-541e-4594-9bf8-526052db1b5d": {
+      "ProjectGuid": "34f54b60-541e-4594-9bf8-526052db1b5d",
+      "DisplayName": "Even or Odd",
+      "ColorIndex": 2
+    },
+    "3b5835e9-d7c8-427d-b22f-ec05e26a1a94": {
+      "ProjectGuid": "3b5835e9-d7c8-427d-b22f-ec05e26a1a94",
+      "DisplayName": "Password Guess",
+      "ColorIndex": 3
+    },
+    "35730555-4a2f-4bc4-a46e-823b62656c39": {
+      "ProjectGuid": "35730555-4a2f-4bc4-a46e-823b62656c39",
+      "DisplayName": "Number 100 to 200",
+      "ColorIndex": 4
+    },
+    "6993db99-7b58-4634-826a-e441af54ea4b": {
+      "ProjectGuid": "6993db99-7b58-4634-826a-e441af54ea4b",
+      "DisplayName": "Speed Info",
+      "ColorIndex": 5
+    },
+    "912070e3-2b15-4043-9bd6-7b7f1850c18d": {
+      "ProjectGuid": "912070e3-2b15-4043-9bd6-7b7f1850c18d",
+      "DisplayName": "Area of Figures",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\Lunch Break.exe
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\Lunch Break.deps.json
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\Lunch Break.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\Lunch Break.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\Lunch Break.dll
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\ref\Lunch Break.dll
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\bin\Debug\net5.0\Lunch Break.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.dll
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\ref\Lunch Break.dll
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Lunch Break\obj\Debug\net5.0\Lunch Break.genruntimeconfig.cache

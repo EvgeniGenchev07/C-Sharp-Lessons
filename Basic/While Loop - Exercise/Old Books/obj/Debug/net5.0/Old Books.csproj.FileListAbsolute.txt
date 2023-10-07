@@ -1,0 +1,16 @@
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\Old Books.exe
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\Old Books.deps.json
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\Old Books.runtimeconfig.json
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\Old Books.runtimeconfig.dev.json
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\Old Books.dll
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\ref\Old Books.dll
+F:\файлове\programi\While Loop - Exercise\Old Books\bin\Debug\net5.0\Old Books.pdb
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.csproj.AssemblyReference.cache
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.AssemblyInfoInputs.cache
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.AssemblyInfo.cs
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.dll
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\ref\Old Books.dll
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.pdb
+F:\файлове\programi\While Loop - Exercise\Old Books\obj\Debug\net5.0\Old Books.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+F:\файлове\programi\Password generator\Classes and objects\bin\Debug\Classes and objects.exe.config
+F:\файлове\programi\Password generator\Classes and objects\bin\Debug\Classes and objects.exe
+F:\файлове\programi\Password generator\Classes and objects\bin\Debug\Classes and objects.pdb
+F:\файлове\programi\Password generator\Classes and objects\obj\Debug\Classes and objects.csproj.AssemblyReference.cache
+F:\файлове\programi\Password generator\Classes and objects\obj\Debug\Classes and objects.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Password generator\Classes and objects\obj\Debug\Classes and objects.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Password generator\Classes and objects\obj\Debug\Classes and objects.exe
+F:\файлове\programi\Password generator\Classes and objects\obj\Debug\Classes and objects.pdb

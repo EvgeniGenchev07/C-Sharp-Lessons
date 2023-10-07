@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Магически променящи се думи", "1. Магически променящи се думи\1. Магически променящи се думи.csproj", "{6E9E5FEB-9906-406E-8E84-67E836AD0B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Умножаване на големи числа", "3. Умножаване на големи числа\3. Умножаване на големи числа.csproj", "{E6C4A5BE-9A2D-421D-B2A1-A93BE93E22B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Обработка на числа с представки и наставки", "4. Обработка на числа с представки и наставки\4. Обработка на числа с представки и наставки.csproj", "{882741E3-5DC8-4284-BEA7-FC8DD566EDB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Сбор на големи числа", "2. Сбор на големи числа\2. Сбор на големи числа.csproj", "{4E18FD54-6B40-4DCF-B756-617092080411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9E5FEB-9906-406E-8E84-67E836AD0B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9E5FEB-9906-406E-8E84-67E836AD0B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9E5FEB-9906-406E-8E84-67E836AD0B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9E5FEB-9906-406E-8E84-67E836AD0B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C4A5BE-9A2D-421D-B2A1-A93BE93E22B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C4A5BE-9A2D-421D-B2A1-A93BE93E22B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C4A5BE-9A2D-421D-B2A1-A93BE93E22B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C4A5BE-9A2D-421D-B2A1-A93BE93E22B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882741E3-5DC8-4284-BEA7-FC8DD566EDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882741E3-5DC8-4284-BEA7-FC8DD566EDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882741E3-5DC8-4284-BEA7-FC8DD566EDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882741E3-5DC8-4284-BEA7-FC8DD566EDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E18FD54-6B40-4DCF-B756-617092080411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E18FD54-6B40-4DCF-B756-617092080411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E18FD54-6B40-4DCF-B756-617092080411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E18FD54-6B40-4DCF-B756-617092080411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A92D2E1-0BEB-4E65-9726-382C8BAC641E}
+	EndGlobalSection
+EndGlobal

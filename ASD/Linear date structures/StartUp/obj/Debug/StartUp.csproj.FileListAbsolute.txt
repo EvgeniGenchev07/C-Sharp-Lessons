@@ -1,0 +1,11 @@
+F:\files\programi\Linear date structures\StartUp\bin\Debug\StartUp.exe.config
+F:\files\programi\Linear date structures\StartUp\bin\Debug\StartUp.exe
+F:\files\programi\Linear date structures\StartUp\bin\Debug\StartUp.pdb
+F:\files\programi\Linear date structures\StartUp\bin\Debug\Linear date structures.dll
+F:\files\programi\Linear date structures\StartUp\bin\Debug\Linear date structures.pdb
+F:\files\programi\Linear date structures\StartUp\obj\Debug\StartUp.csproj.AssemblyReference.cache
+F:\files\programi\Linear date structures\StartUp\obj\Debug\StartUp.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Linear date structures\StartUp\obj\Debug\StartUp.csproj.CoreCompileInputs.cache
+F:\files\programi\Linear date structures\StartUp\obj\Debug\StartUp.csproj.CopyComplete
+F:\files\programi\Linear date structures\StartUp\obj\Debug\StartUp.exe
+F:\files\programi\Linear date structures\StartUp\obj\Debug\StartUp.pdb

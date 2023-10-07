@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\Flowers.exe
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\Flowers.deps.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\Flowers.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\Flowers.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\Flowers.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\ref\Flowers.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\bin\Debug\net5.0\Flowers.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\ref\Flowers.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Flowers\obj\Debug\net5.0\Flowers.genruntimeconfig.cache

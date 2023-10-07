@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6AWHMSu/mkzyHBACeQrYsRw0mE/La6tjoUZN8hbvmgAxramqonFxu0wfcU0ZtCTENmpqkbXldewInJoUti++Q==",
+  "success": true,
+  "projectFilePath": "F:\\файлове\\programi\\Nested Loops - More Exercises\\Prime Pairs\\Prime Pairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

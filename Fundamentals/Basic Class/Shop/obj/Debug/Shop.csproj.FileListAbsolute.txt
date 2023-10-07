@@ -1,0 +1,8 @@
+F:\files\programi\Basic Class\Shop\bin\Debug\Shop.exe.config
+F:\files\programi\Basic Class\Shop\bin\Debug\Shop.exe
+F:\files\programi\Basic Class\Shop\bin\Debug\Shop.pdb
+F:\files\programi\Basic Class\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+F:\files\programi\Basic Class\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Basic Class\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+F:\files\programi\Basic Class\Shop\obj\Debug\Shop.exe
+F:\files\programi\Basic Class\Shop\obj\Debug\Shop.pdb

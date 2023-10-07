@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\Personal Titles.exe
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\Personal Titles.deps.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\Personal Titles.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\Personal Titles.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\Personal Titles.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\ref\Personal Titles.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\bin\Debug\net5.0\Personal Titles.pdb
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\ref\Personal Titles.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.pdb
+F:\файлове\programi\Conditional Statements Advanced - Lab\Personal Titles\obj\Debug\net5.0\Personal Titles.genruntimeconfig.cache

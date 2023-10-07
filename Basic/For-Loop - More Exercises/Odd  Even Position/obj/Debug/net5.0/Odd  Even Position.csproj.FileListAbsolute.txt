@@ -1,0 +1,16 @@
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\bin\Debug\net5.0\Odd  Even Position.exe
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\bin\Debug\net5.0\Odd  Even Position.deps.json
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\bin\Debug\net5.0\Odd  Even Position.runtimeconfig.json
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\bin\Debug\net5.0\Odd  Even Position.runtimeconfig.dev.json
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\bin\Debug\net5.0\Odd  Even Position.dll
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\bin\Debug\net5.0\Odd  Even Position.pdb
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.csproj.AssemblyReference.cache
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.AssemblyInfoInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.AssemblyInfo.cs
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.dll
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\refint\Odd  Even Position.dll
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.pdb
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\Odd  Even Position.genruntimeconfig.cache
+F:\файлове\programi\For-Loop - More Exercises\Odd  Even Position\obj\Debug\net5.0\ref\Odd  Even Position.dll

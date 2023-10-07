@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "128d6ad9-e4bb-41da-a8d6-ba0186bb80cb": {
+      "ProjectGuid": "128d6ad9-e4bb-41da-a8d6-ba0186bb80cb",
+      "DisplayName": "Trapeziod Area",
+      "ColorIndex": 0
+    },
+    "8df31d6f-8e7b-4916-90b5-b3ba5c727625": {
+      "ProjectGuid": "8df31d6f-8e7b-4916-90b5-b3ba5c727625",
+      "DisplayName": "Triangle Area",
+      "ColorIndex": 1
+    },
+    "e98c71ec-fb46-4f93-a223-f8cb3e613e97": {
+      "ProjectGuid": "e98c71ec-fb46-4f93-a223-f8cb3e613e97",
+      "DisplayName": "Celsius to Fahrenheit",
+      "ColorIndex": 2
+    },
+    "2599b514-c8b8-40e9-9416-49e6ba4d69b9": {
+      "ProjectGuid": "2599b514-c8b8-40e9-9416-49e6ba4d69b9",
+      "DisplayName": "Vegetable Market",
+      "ColorIndex": 3
+    },
+    "f0893b30-1893-4da6-971e-d414236d30d8": {
+      "ProjectGuid": "f0893b30-1893-4da6-971e-d414236d30d8",
+      "DisplayName": "Training Lab",
+      "ColorIndex": 4
+    },
+    "e135c75b-aeb1-40e5-8e62-cd48921e7925": {
+      "ProjectGuid": "e135c75b-aeb1-40e5-8e62-cd48921e7925",
+      "DisplayName": "Fishland",
+      "ColorIndex": 5
+    },
+    "455ad385-2fae-4489-b3c9-ae1b33cadf6a": {
+      "ProjectGuid": "455ad385-2fae-4489-b3c9-ae1b33cadf6a",
+      "DisplayName": "House Painting",
+      "ColorIndex": 6
+    },
+    "e951a484-f70d-4d9c-8191-21200c0a89ef": {
+      "ProjectGuid": "e951a484-f70d-4d9c-8191-21200c0a89ef",
+      "DisplayName": "Circle Area and Perimeter",
+      "ColorIndex": 7
+    },
+    "cf1fef29-218b-43d1-b42b-d30feecd6abc": {
+      "ProjectGuid": "cf1fef29-218b-43d1-b42b-d30feecd6abc",
+      "DisplayName": "Weather Forecast",
+      "ColorIndex": 8
+    },
+    "ccc461ab-e0de-4ec7-bd19-f738d7ffcc80": {
+      "ProjectGuid": "ccc461ab-e0de-4ec7-bd19-f738d7ffcc80",
+      "DisplayName": "Weather Forecast - Part 2",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

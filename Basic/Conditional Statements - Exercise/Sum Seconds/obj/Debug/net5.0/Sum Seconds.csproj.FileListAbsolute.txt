@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\Sum Seconds.exe
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\Sum Seconds.deps.json
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\Sum Seconds.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\Sum Seconds.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\Sum Seconds.dll
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\ref\Sum Seconds.dll
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\bin\Debug\net5.0\Sum Seconds.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.dll
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\ref\Sum Seconds.dll
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Sum Seconds\obj\Debug\net5.0\Sum Seconds.genruntimeconfig.cache

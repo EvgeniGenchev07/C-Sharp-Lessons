@@ -1,0 +1,15 @@
+F:\files\programi\Recursion\MathPow\bin\Debug\net6.0\MathPow.exe
+F:\files\programi\Recursion\MathPow\bin\Debug\net6.0\MathPow.deps.json
+F:\files\programi\Recursion\MathPow\bin\Debug\net6.0\MathPow.runtimeconfig.json
+F:\files\programi\Recursion\MathPow\bin\Debug\net6.0\MathPow.dll
+F:\files\programi\Recursion\MathPow\bin\Debug\net6.0\MathPow.pdb
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.AssemblyInfoInputs.cache
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.AssemblyInfo.cs
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.dll
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\refint\MathPow.dll
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.pdb
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\MathPow.genruntimeconfig.cache
+F:\files\programi\Recursion\MathPow\obj\Debug\net6.0\ref\MathPow.dll

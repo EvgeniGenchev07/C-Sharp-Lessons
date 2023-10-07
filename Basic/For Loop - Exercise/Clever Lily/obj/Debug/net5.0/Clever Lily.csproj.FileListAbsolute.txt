@@ -1,0 +1,16 @@
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\Clever Lily.exe
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\Clever Lily.deps.json
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\Clever Lily.runtimeconfig.json
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\Clever Lily.runtimeconfig.dev.json
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\Clever Lily.dll
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\ref\Clever Lily.dll
+F:\файлове\programi\For Loop - Exercise\Clever Lily\bin\Debug\net5.0\Clever Lily.pdb
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.csproj.AssemblyReference.cache
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.AssemblyInfoInputs.cache
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.AssemblyInfo.cs
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.dll
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\ref\Clever Lily.dll
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.pdb
+F:\файлове\programi\For Loop - Exercise\Clever Lily\obj\Debug\net5.0\Clever Lily.genruntimeconfig.cache

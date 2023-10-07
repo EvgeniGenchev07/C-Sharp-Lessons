@@ -1,0 +1,8 @@
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\bin\Debug\5.Само букви.exe.config
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\bin\Debug\5.Само букви.exe
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\bin\Debug\5.Само букви.pdb
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\obj\Debug\5.Само букви.csproj.AssemblyReference.cache
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\obj\Debug\5.Само букви.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\obj\Debug\5.Само букви.csproj.CoreCompileInputs.cache
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\obj\Debug\5.Само букви.exe
+F:\файлове\programi\3.Работа със символни низове и текст\5.Само букви\obj\Debug\5.Само букви.pdb

@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\Even or Odd.exe
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\Even or Odd.deps.json
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\Even or Odd.runtimeconfig.json
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\Even or Odd.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\Even or Odd.dll
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\ref\Even or Odd.dll
+F:\файлове\programi\Conditional Statements\Even or Odd\bin\Debug\net5.0\Even or Odd.pdb
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.dll
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\ref\Even or Odd.dll
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.pdb
+F:\файлове\programi\Conditional Statements\Even or Odd\obj\Debug\net5.0\Even or Odd.genruntimeconfig.cache

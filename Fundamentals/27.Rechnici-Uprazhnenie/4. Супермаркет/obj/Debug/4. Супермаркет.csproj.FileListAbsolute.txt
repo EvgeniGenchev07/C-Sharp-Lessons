@@ -1,0 +1,8 @@
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\bin\Debug\_4.Супермаркет.exe.config
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\bin\Debug\_4.Супермаркет.exe
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\bin\Debug\_4.Супермаркет.pdb
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\obj\Debug\4. Супермаркет.csproj.AssemblyReference.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\obj\Debug\4. Супермаркет.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\obj\Debug\4. Супермаркет.csproj.CoreCompileInputs.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\obj\Debug\_4.Супермаркет.exe
+F:\файлове\programi\27.Rechnici-Uprazhnenie\4. Супермаркет\obj\Debug\_4.Супермаркет.pdb

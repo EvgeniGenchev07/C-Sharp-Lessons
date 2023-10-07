@@ -1,0 +1,15 @@
+F:\файлове\programi\my first project\my first project\bin\Debug\net6.0\my first project.exe
+F:\файлове\programi\my first project\my first project\bin\Debug\net6.0\my first project.deps.json
+F:\файлове\programi\my first project\my first project\bin\Debug\net6.0\my first project.runtimeconfig.json
+F:\файлове\programi\my first project\my first project\bin\Debug\net6.0\my first project.dll
+F:\файлове\programi\my first project\my first project\bin\Debug\net6.0\ref\my first project.dll
+F:\файлове\programi\my first project\my first project\bin\Debug\net6.0\my first project.pdb
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.csproj.AssemblyReference.cache
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.AssemblyInfoInputs.cache
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.AssemblyInfo.cs
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.csproj.CoreCompileInputs.cache
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.dll
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\ref\my first project.dll
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.pdb
+F:\файлове\programi\my first project\my first project\obj\Debug\net6.0\my first project.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\Fishland.exe
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\Fishland.deps.json
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\Fishland.runtimeconfig.json
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\Fishland.runtimeconfig.dev.json
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\Fishland.dll
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\ref\Fishland.dll
+F:\файлове\programi\Trapeziod Area\Fishland\bin\Debug\net5.0\Fishland.pdb
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.csproj.AssemblyReference.cache
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.AssemblyInfoInputs.cache
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.AssemblyInfo.cs
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.dll
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\ref\Fishland.dll
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.pdb
+F:\файлове\programi\Trapeziod Area\Fishland\obj\Debug\net5.0\Fishland.genruntimeconfig.cache

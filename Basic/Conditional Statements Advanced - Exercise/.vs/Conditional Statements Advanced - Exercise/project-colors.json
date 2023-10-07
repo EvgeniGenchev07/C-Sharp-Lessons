@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49f4aa78-2f22-4718-8f08-8e8c4c9e3c3d": {
+      "ProjectGuid": "49f4aa78-2f22-4718-8f08-8e8c4c9e3c3d",
+      "DisplayName": "Cinema",
+      "ColorIndex": 0
+    },
+    "cef44984-6e2b-45cd-bd91-7477ef74846b": {
+      "ProjectGuid": "cef44984-6e2b-45cd-bd91-7477ef74846b",
+      "DisplayName": "Summer Outfit",
+      "ColorIndex": 1
+    },
+    "c8942579-ac7a-413a-bb3c-4ee67dccbaed": {
+      "ProjectGuid": "c8942579-ac7a-413a-bb3c-4ee67dccbaed",
+      "DisplayName": "New House",
+      "ColorIndex": 2
+    },
+    "e00483ed-4832-4f23-81d8-4885667b63bf": {
+      "ProjectGuid": "e00483ed-4832-4f23-81d8-4885667b63bf",
+      "DisplayName": "Fishing Boat",
+      "ColorIndex": 3
+    },
+    "bb114fc5-f9d2-4beb-9859-8e9e45916b0c": {
+      "ProjectGuid": "bb114fc5-f9d2-4beb-9859-8e9e45916b0c",
+      "DisplayName": "Journey",
+      "ColorIndex": 4
+    },
+    "21169811-0766-40e5-8dc1-cad5273f228e": {
+      "ProjectGuid": "21169811-0766-40e5-8dc1-cad5273f228e",
+      "DisplayName": "Operations Between Numbers",
+      "ColorIndex": 5
+    },
+    "1afb9766-c218-4998-9321-c41b9acb4d82": {
+      "ProjectGuid": "1afb9766-c218-4998-9321-c41b9acb4d82",
+      "DisplayName": "Hotel Room",
+      "ColorIndex": 6
+    },
+    "5b0feafd-49d1-4b81-90d5-208a11284acc": {
+      "ProjectGuid": "5b0feafd-49d1-4b81-90d5-208a11284acc",
+      "DisplayName": "On Time for the Exam",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e96d5b68-2df9-4712-9392-1f3841fa4e7d": {
+      "ProjectGuid": "e96d5b68-2df9-4712-9392-1f3841fa4e7d",
+      "DisplayName": "Ski Trip",
+      "ColorIndex": 8
+    },
+    "158480ee-ffb6-43b5-a700-3b59feffd3ad": {
+      "ProjectGuid": "158480ee-ffb6-43b5-a700-3b59feffd3ad",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

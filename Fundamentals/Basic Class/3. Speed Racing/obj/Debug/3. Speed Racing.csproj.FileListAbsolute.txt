@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\3. Speed Racing\bin\Debug\_3.Speed_Racing.exe.config
+F:\файлове\programi\Basic Class\3. Speed Racing\bin\Debug\_3.Speed_Racing.exe
+F:\файлове\programi\Basic Class\3. Speed Racing\bin\Debug\_3.Speed_Racing.pdb
+F:\файлове\programi\Basic Class\3. Speed Racing\obj\Debug\3. Speed Racing.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\3. Speed Racing\obj\Debug\3. Speed Racing.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\3. Speed Racing\obj\Debug\3. Speed Racing.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\3. Speed Racing\obj\Debug\_3.Speed_Racing.exe
+F:\файлове\programi\Basic Class\3. Speed Racing\obj\Debug\_3.Speed_Racing.pdb

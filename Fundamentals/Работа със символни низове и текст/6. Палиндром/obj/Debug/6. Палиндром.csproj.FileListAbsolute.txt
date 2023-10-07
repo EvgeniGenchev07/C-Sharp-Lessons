@@ -1,0 +1,8 @@
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\bin\Debug\_6.Палиндром.exe.config
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\bin\Debug\_6.Палиндром.exe
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\bin\Debug\_6.Палиндром.pdb
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\obj\Debug\6. Палиндром.csproj.AssemblyReference.cache
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\obj\Debug\6. Палиндром.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\obj\Debug\6. Палиндром.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\obj\Debug\_6.Палиндром.exe
+F:\файлове\programi\Работа със символни низове и текст\6. Палиндром\obj\Debug\_6.Палиндром.pdb

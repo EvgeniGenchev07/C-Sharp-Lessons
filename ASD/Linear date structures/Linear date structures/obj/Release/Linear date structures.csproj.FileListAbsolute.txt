@@ -1,0 +1,6 @@
+F:\files\programi\Linear date structures\Linear date structures\bin\Release\Linear date structures.dll
+F:\files\programi\Linear date structures\Linear date structures\bin\Release\Linear date structures.pdb
+F:\files\programi\Linear date structures\Linear date structures\obj\Release\Linear date structures.csproj.AssemblyReference.cache
+F:\files\programi\Linear date structures\Linear date structures\obj\Release\Linear date structures.csproj.CoreCompileInputs.cache
+F:\files\programi\Linear date structures\Linear date structures\obj\Release\Linear date structures.dll
+F:\files\programi\Linear date structures\Linear date structures\obj\Release\Linear date structures.pdb

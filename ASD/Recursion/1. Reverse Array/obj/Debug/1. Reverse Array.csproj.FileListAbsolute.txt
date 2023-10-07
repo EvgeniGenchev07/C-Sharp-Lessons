@@ -1,0 +1,8 @@
+F:\files\programi\Recursion\1. Reverse Array\bin\Debug\_1.Reverse_Array.exe.config
+F:\files\programi\Recursion\1. Reverse Array\bin\Debug\_1.Reverse_Array.exe
+F:\files\programi\Recursion\1. Reverse Array\bin\Debug\_1.Reverse_Array.pdb
+F:\files\programi\Recursion\1. Reverse Array\obj\Debug\1. Reverse Array.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\1. Reverse Array\obj\Debug\1. Reverse Array.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Recursion\1. Reverse Array\obj\Debug\1. Reverse Array.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\1. Reverse Array\obj\Debug\_1.Reverse_Array.exe
+F:\files\programi\Recursion\1. Reverse Array\obj\Debug\_1.Reverse_Array.pdb

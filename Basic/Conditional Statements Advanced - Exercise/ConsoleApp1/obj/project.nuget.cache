@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JvJvTWRy46VK6P7FxS/IL7r2TdxAMvH4k1dIf5X4es/rrhE/TfK4r9rp/AQpNIhVezQ7PsOV1E+h7Snl3FjUA==",
+  "success": true,
+  "projectFilePath": "F:\\файлове\\programi\\Conditional Statements Advanced - Exercise\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

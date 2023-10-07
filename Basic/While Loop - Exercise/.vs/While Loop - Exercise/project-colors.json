@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d6cd24e-2775-40f8-9ec8-8e9b2083b94f": {
+      "ProjectGuid": "2d6cd24e-2775-40f8-9ec8-8e9b2083b94f",
+      "DisplayName": "Old Books",
+      "ColorIndex": 0
+    },
+    "6cb8c2ba-5acf-4912-b8ed-7a9c1197fd85": {
+      "ProjectGuid": "6cb8c2ba-5acf-4912-b8ed-7a9c1197fd85",
+      "DisplayName": "Exam Preparation",
+      "ColorIndex": 1
+    },
+    "4cddaf69-138d-4a4d-b0e5-3daeeb1ad322": {
+      "ProjectGuid": "4cddaf69-138d-4a4d-b0e5-3daeeb1ad322",
+      "DisplayName": "Vacation",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

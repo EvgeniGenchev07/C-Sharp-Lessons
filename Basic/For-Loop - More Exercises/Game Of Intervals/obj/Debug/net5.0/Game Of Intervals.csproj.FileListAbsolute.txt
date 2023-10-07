@@ -1,0 +1,16 @@
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\Game Of Intervals.exe
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\Game Of Intervals.deps.json
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\Game Of Intervals.runtimeconfig.json
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\Game Of Intervals.runtimeconfig.dev.json
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\Game Of Intervals.dll
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\ref\Game Of Intervals.dll
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\bin\Debug\net5.0\Game Of Intervals.pdb
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.csproj.AssemblyReference.cache
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.AssemblyInfoInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.AssemblyInfo.cs
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.dll
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\ref\Game Of Intervals.dll
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.pdb
+F:\файлове\programi\For-Loop - More Exercises\Game Of Intervals\obj\Debug\net5.0\Game Of Intervals.genruntimeconfig.cache

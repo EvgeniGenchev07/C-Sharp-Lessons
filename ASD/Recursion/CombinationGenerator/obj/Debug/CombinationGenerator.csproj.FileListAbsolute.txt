@@ -1,0 +1,8 @@
+F:\files\programi\Recursion\CombinationGenerator\bin\Debug\CombinationGenerator.exe.config
+F:\files\programi\Recursion\CombinationGenerator\bin\Debug\CombinationGenerator.exe
+F:\files\programi\Recursion\CombinationGenerator\bin\Debug\CombinationGenerator.pdb
+F:\files\programi\Recursion\CombinationGenerator\obj\Debug\CombinationGenerator.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\CombinationGenerator\obj\Debug\CombinationGenerator.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Recursion\CombinationGenerator\obj\Debug\CombinationGenerator.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\CombinationGenerator\obj\Debug\CombinationGenerator.exe
+F:\files\programi\Recursion\CombinationGenerator\obj\Debug\CombinationGenerator.pdb

@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\bin\Debug\net5.0\Number Pyramid.exe
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\bin\Debug\net5.0\Number Pyramid.deps.json
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\bin\Debug\net5.0\Number Pyramid.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\bin\Debug\net5.0\Number Pyramid.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\bin\Debug\net5.0\Number Pyramid.dll
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\bin\Debug\net5.0\Number Pyramid.pdb
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.dll
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\refint\Number Pyramid.dll
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.pdb
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\Number Pyramid.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Exercise\Number Pyramid\obj\Debug\net5.0\ref\Number Pyramid.dll

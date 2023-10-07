@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\4. Students\bin\Debug\_4.Students.exe.config
+F:\файлове\programi\Basic Class\4. Students\bin\Debug\_4.Students.exe
+F:\файлове\programi\Basic Class\4. Students\bin\Debug\_4.Students.pdb
+F:\файлове\programi\Basic Class\4. Students\obj\Debug\4. Students.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\4. Students\obj\Debug\4. Students.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\4. Students\obj\Debug\4. Students.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\4. Students\obj\Debug\_4.Students.exe
+F:\файлове\programi\Basic Class\4. Students\obj\Debug\_4.Students.pdb

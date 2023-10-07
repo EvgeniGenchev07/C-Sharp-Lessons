@@ -1,0 +1,8 @@
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\bin\Debug\_3.Поправка_на_email_и.exe.config
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\bin\Debug\_3.Поправка_на_email_и.exe
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\bin\Debug\_3.Поправка_на_email_и.pdb
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\obj\Debug\3. Поправка на email-и.csproj.AssemblyReference.cache
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\obj\Debug\3. Поправка на email-и.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\obj\Debug\3. Поправка на email-и.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\obj\Debug\_3.Поправка_на_email_и.exe
+F:\файлове\programi\Сортирани речници - упражнения\3. Поправка на email-и\obj\Debug\_3.Поправка_на_email_и.pdb

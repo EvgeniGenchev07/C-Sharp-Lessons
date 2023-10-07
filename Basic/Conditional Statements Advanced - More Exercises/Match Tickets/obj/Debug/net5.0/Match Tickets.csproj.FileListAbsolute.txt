@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\Match Tickets.exe
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\Match Tickets.deps.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\Match Tickets.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\Match Tickets.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\Match Tickets.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\ref\Match Tickets.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\bin\Debug\net5.0\Match Tickets.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\ref\Match Tickets.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Match Tickets\obj\Debug\net5.0\Match Tickets.genruntimeconfig.cache

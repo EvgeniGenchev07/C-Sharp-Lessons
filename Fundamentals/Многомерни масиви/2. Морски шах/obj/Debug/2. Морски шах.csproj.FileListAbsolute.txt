@@ -1,0 +1,8 @@
+F:\файлове\programi\Многомерни масиви\2. Морски шах\bin\Debug\_2.Морски_шах.exe.config
+F:\файлове\programi\Многомерни масиви\2. Морски шах\bin\Debug\_2.Морски_шах.exe
+F:\файлове\programi\Многомерни масиви\2. Морски шах\bin\Debug\_2.Морски_шах.pdb
+F:\файлове\programi\Многомерни масиви\2. Морски шах\obj\Debug\2. Морски шах.csproj.AssemblyReference.cache
+F:\файлове\programi\Многомерни масиви\2. Морски шах\obj\Debug\2. Морски шах.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Многомерни масиви\2. Морски шах\obj\Debug\2. Морски шах.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Многомерни масиви\2. Морски шах\obj\Debug\_2.Морски_шах.exe
+F:\файлове\programi\Многомерни масиви\2. Морски шах\obj\Debug\_2.Морски_шах.pdb

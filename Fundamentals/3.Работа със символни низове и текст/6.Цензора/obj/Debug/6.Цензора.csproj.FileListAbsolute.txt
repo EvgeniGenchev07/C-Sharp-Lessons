@@ -1,0 +1,8 @@
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\bin\Debug\6.Цензора.exe.config
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\bin\Debug\6.Цензора.exe
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\bin\Debug\6.Цензора.pdb
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\obj\Debug\6.Цензора.csproj.AssemblyReference.cache
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\obj\Debug\6.Цензора.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\obj\Debug\6.Цензора.csproj.CoreCompileInputs.cache
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\obj\Debug\6.Цензора.exe
+F:\файлове\programi\3.Работа със символни низове и текст\6.Цензора\obj\Debug\6.Цензора.pdb

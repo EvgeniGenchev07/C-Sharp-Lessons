@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\7. Order by Age\bin\Debug\_7.Order_by_Age.exe.config
+F:\файлове\programi\Basic Class\7. Order by Age\bin\Debug\_7.Order_by_Age.exe
+F:\файлове\programi\Basic Class\7. Order by Age\bin\Debug\_7.Order_by_Age.pdb
+F:\файлове\programi\Basic Class\7. Order by Age\obj\Debug\8. Order by Age.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\7. Order by Age\obj\Debug\8. Order by Age.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\7. Order by Age\obj\Debug\8. Order by Age.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\7. Order by Age\obj\Debug\_7.Order_by_Age.exe
+F:\файлове\programi\Basic Class\7. Order by Age\obj\Debug\_7.Order_by_Age.pdb

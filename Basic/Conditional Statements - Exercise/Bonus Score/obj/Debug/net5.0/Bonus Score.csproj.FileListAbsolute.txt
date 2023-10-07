@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\Bonus Score.exe
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\Bonus Score.deps.json
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\Bonus Score.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\Bonus Score.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\Bonus Score.dll
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\ref\Bonus Score.dll
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\bin\Debug\net5.0\Bonus Score.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.dll
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\ref\Bonus Score.dll
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Bonus Score\obj\Debug\net5.0\Bonus Score.genruntimeconfig.cache

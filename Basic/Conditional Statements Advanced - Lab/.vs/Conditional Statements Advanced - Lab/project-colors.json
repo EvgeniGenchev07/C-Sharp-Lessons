@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85c26235-a1a2-4e19-a0f0-110466407b9f": {
+      "ProjectGuid": "85c26235-a1a2-4e19-a0f0-110466407b9f",
+      "DisplayName": "Day of Week",
+      "ColorIndex": 0
+    },
+    "2fdf566e-d283-405a-87e1-0b046a286fe9": {
+      "ProjectGuid": "2fdf566e-d283-405a-87e1-0b046a286fe9",
+      "DisplayName": "Weekend or Working Day",
+      "ColorIndex": 1
+    },
+    "4a4930ec-12ad-47da-a3a8-4c7be67115b9": {
+      "ProjectGuid": "4a4930ec-12ad-47da-a3a8-4c7be67115b9",
+      "DisplayName": "Animal Type",
+      "ColorIndex": 2
+    },
+    "62e2db6b-ba4c-4482-b763-cc81035e0163": {
+      "ProjectGuid": "62e2db6b-ba4c-4482-b763-cc81035e0163",
+      "DisplayName": "Personal Titles",
+      "ColorIndex": 3
+    },
+    "b44e9c91-b314-4139-b10c-414562ca7d28": {
+      "ProjectGuid": "b44e9c91-b314-4139-b10c-414562ca7d28",
+      "DisplayName": "Small Shop",
+      "ColorIndex": 4
+    },
+    "cc3f5162-e9e7-467a-8f64-d6fa525d3caa": {
+      "ProjectGuid": "cc3f5162-e9e7-467a-8f64-d6fa525d3caa",
+      "DisplayName": "Number in Range",
+      "ColorIndex": 5
+    },
+    "662d8bf7-9396-4aee-8598-b5c5a11ee17d": {
+      "ProjectGuid": "662d8bf7-9396-4aee-8598-b5c5a11ee17d",
+      "DisplayName": "Working Hours",
+      "ColorIndex": 6
+    },
+    "c3109f61-89d4-409e-9dd8-dd1513e160a6": {
+      "ProjectGuid": "c3109f61-89d4-409e-9dd8-dd1513e160a6",
+      "DisplayName": "Cinema Ticket",
+      "ColorIndex": 7
+    },
+    "7f9b6eec-9588-4660-aa00-7191d968ebef": {
+      "ProjectGuid": "7f9b6eec-9588-4660-aa00-7191d968ebef",
+      "DisplayName": "Fruit or Vegetable",
+      "ColorIndex": 8
+    },
+    "5bab9631-35c9-4467-8418-d9bd37ac9c4f": {
+      "ProjectGuid": "5bab9631-35c9-4467-8418-d9bd37ac9c4f",
+      "DisplayName": "Invalid Number",
+      "ColorIndex": 9
+    },
+    "7261a4db-b457-49b9-8516-172f2ca85766": {
+      "ProjectGuid": "7261a4db-b457-49b9-8516-172f2ca85766",
+      "DisplayName": "Fruit Shop",
+      "ColorIndex": 10
+    },
+    "1ae27fc4-63c7-452b-a401-1e0d7c53061b": {
+      "ProjectGuid": "1ae27fc4-63c7-452b-a401-1e0d7c53061b",
+      "DisplayName": "Trade Commissions",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

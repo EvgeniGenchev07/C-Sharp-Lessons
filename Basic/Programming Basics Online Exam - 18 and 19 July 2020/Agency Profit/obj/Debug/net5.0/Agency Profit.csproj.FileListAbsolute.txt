@@ -1,0 +1,16 @@
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.exe
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.deps.json
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.runtimeconfig.json
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.runtimeconfig.dev.json
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.dll
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\ref\Agency Profit.dll
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.pdb
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.csproj.AssemblyReference.cache
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.AssemblyInfoInputs.cache
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.AssemblyInfo.cs
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.dll
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\ref\Agency Profit.dll
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.pdb
+F:\файлове\programi\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.genruntimeconfig.cache

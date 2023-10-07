@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\bin\Debug\_7.Birthday_Celebrations.exe.config
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\bin\Debug\_7.Birthday_Celebrations.exe
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\bin\Debug\_7.Birthday_Celebrations.pdb
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\obj\Debug\7. Birthday Celebrations.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\obj\Debug\7. Birthday Celebrations.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\obj\Debug\7. Birthday Celebrations.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\obj\Debug\_7.Birthday_Celebrations.exe
+F:\files\programi\Interfaces and Abstraction\7. Birthday Celebrations\obj\Debug\_7.Birthday_Celebrations.pdb

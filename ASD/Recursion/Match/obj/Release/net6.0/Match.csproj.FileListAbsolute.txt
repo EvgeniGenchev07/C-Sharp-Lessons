@@ -1,0 +1,15 @@
+F:\files\programi\Recursion\Match\bin\Release\net6.0\Match.exe
+F:\files\programi\Recursion\Match\bin\Release\net6.0\Match.deps.json
+F:\files\programi\Recursion\Match\bin\Release\net6.0\Match.runtimeconfig.json
+F:\files\programi\Recursion\Match\bin\Release\net6.0\Match.dll
+F:\files\programi\Recursion\Match\bin\Release\net6.0\Match.pdb
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.AssemblyInfoInputs.cache
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.AssemblyInfo.cs
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.dll
+F:\files\programi\Recursion\Match\obj\Release\net6.0\refint\Match.dll
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.pdb
+F:\files\programi\Recursion\Match\obj\Release\net6.0\Match.genruntimeconfig.cache
+F:\files\programi\Recursion\Match\obj\Release\net6.0\ref\Match.dll

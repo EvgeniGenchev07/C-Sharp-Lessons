@@ -1,0 +1,8 @@
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\bin\Debug\_3.Миньорска_задача.exe.config
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\bin\Debug\_3.Миньорска_задача.exe
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\bin\Debug\_3.Миньорска_задача.pdb
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\obj\Debug\3. Миньорска задача.csproj.AssemblyReference.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\obj\Debug\3. Миньорска задача.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\obj\Debug\3. Миньорска задача.csproj.CoreCompileInputs.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\obj\Debug\_3.Миньорска_задача.exe
+F:\файлове\programi\27.Rechnici-Uprazhnenie\3. Миньорска задача\obj\Debug\_3.Миньорска_задача.pdb

@@ -1,0 +1,8 @@
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\bin\Debug\_1.Basic_Stack_Operations.exe.config
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\bin\Debug\_1.Basic_Stack_Operations.exe
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\bin\Debug\_1.Basic_Stack_Operations.pdb
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\obj\Debug\1. Basic Stack Operations.csproj.AssemblyReference.cache
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\obj\Debug\1. Basic Stack Operations.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\obj\Debug\1. Basic Stack Operations.csproj.CoreCompileInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\obj\Debug\_1.Basic_Stack_Operations.exe
+F:\files\programi\Exercise  Stacks and Queues\1. Basic Stack Operations\obj\Debug\_1.Basic_Stack_Operations.pdb

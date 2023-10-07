@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\Small Shop.exe
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\Small Shop.deps.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\Small Shop.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\Small Shop.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\Small Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\ref\Small Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\net5.0\Small Shop.pdb
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\ref\Small Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.pdb
+F:\файлове\programi\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\net5.0\Small Shop.genruntimeconfig.cache

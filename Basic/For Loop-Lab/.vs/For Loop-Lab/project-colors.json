@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e764727a-41ce-431b-8619-01a90872e2c3": {
+      "ProjectGuid": "e764727a-41ce-431b-8619-01a90872e2c3",
+      "DisplayName": "Numbers from 1 to 100",
+      "ColorIndex": 0
+    },
+    "feec48e6-26dd-4ec4-8fe6-67eea7a972ee": {
+      "ProjectGuid": "feec48e6-26dd-4ec4-8fe6-67eea7a972ee",
+      "DisplayName": "Numbers N to 1",
+      "ColorIndex": 1
+    },
+    "7cb949e5-a12b-4f10-947e-88fc59450c1d": {
+      "ProjectGuid": "7cb949e5-a12b-4f10-947e-88fc59450c1d",
+      "DisplayName": "Numbers 1 to N with Step 3",
+      "ColorIndex": 2
+    },
+    "4a6247b9-edf4-4368-a31d-236d9c5ab54f": {
+      "ProjectGuid": "4a6247b9-edf4-4368-a31d-236d9c5ab54f",
+      "DisplayName": "Even Powers of 2",
+      "ColorIndex": 3
+    },
+    "8273f266-05a8-4c2e-b040-73521843f089": {
+      "ProjectGuid": "8273f266-05a8-4c2e-b040-73521843f089",
+      "DisplayName": "Character Sequence",
+      "ColorIndex": 4
+    },
+    "f9fb6e60-9f87-4781-86c7-08bd47b21609": {
+      "ProjectGuid": "f9fb6e60-9f87-4781-86c7-08bd47b21609",
+      "DisplayName": "Vowels Sum",
+      "ColorIndex": 5
+    },
+    "07e91a85-ad98-493a-b832-dc03ae0dfa9a": {
+      "ProjectGuid": "07e91a85-ad98-493a-b832-dc03ae0dfa9a",
+      "DisplayName": "Sum Numbers",
+      "ColorIndex": 6
+    },
+    "e6ce84e7-64f5-4909-be0b-c2c2a237702f": {
+      "ProjectGuid": "e6ce84e7-64f5-4909-be0b-c2c2a237702f",
+      "DisplayName": "Sum Numbers",
+      "ColorIndex": 7
+    },
+    "f940f2fe-298d-4fd9-b703-5ca008f142ee": {
+      "ProjectGuid": "f940f2fe-298d-4fd9-b703-5ca008f142ee",
+      "DisplayName": "Number sequence",
+      "ColorIndex": 8
+    },
+    "bf07b652-608a-42a9-8d48-3abb59b5bef7": {
+      "ProjectGuid": "bf07b652-608a-42a9-8d48-3abb59b5bef7",
+      "DisplayName": "Left and Right Sum",
+      "ColorIndex": 9
+    },
+    "0486b627-a9ba-4cd8-9204-41052c2230ca": {
+      "ProjectGuid": "0486b627-a9ba-4cd8-9204-41052c2230ca",
+      "DisplayName": "Odd Even Sum",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

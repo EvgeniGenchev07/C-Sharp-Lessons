@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\bin\Debug\_6.Border_Control.exe.config
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\bin\Debug\_6.Border_Control.exe
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\bin\Debug\_6.Border_Control.pdb
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\obj\Debug\6.  Border Control.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\obj\Debug\6.  Border Control.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\obj\Debug\6.  Border Control.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\obj\Debug\_6.Border_Control.exe
+F:\files\programi\Interfaces and Abstraction\6.  Border Control\obj\Debug\_6.Border_Control.pdb

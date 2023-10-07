@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\bin\Debug\Student_HitherGradeaStatistika.exe.config
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\bin\Debug\Student_HitherGradeaStatistika.exe
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\bin\Debug\Student_HitherGradeaStatistika.pdb
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\obj\Debug\Student_HitherGradeaStatistika.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\obj\Debug\Student_HitherGradeaStatistika.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\obj\Debug\Student_HitherGradeaStatistika.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\obj\Debug\Student_HitherGradeaStatistika.exe
+F:\файлове\programi\Basic Class\Student_HitherGradeaStatistika\obj\Debug\Student_HitherGradeaStatistika.pdb

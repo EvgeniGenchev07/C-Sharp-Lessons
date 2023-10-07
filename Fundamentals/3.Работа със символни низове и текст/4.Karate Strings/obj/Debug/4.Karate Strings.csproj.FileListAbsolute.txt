@@ -1,0 +1,8 @@
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\bin\Debug\4.Karate Strings.exe.config
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\bin\Debug\4.Karate Strings.exe
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\bin\Debug\4.Karate Strings.pdb
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\obj\Debug\4.Karate Strings.csproj.AssemblyReference.cache
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\obj\Debug\4.Karate Strings.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\obj\Debug\4.Karate Strings.csproj.CoreCompileInputs.cache
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\obj\Debug\4.Karate Strings.exe
+F:\файлове\programi\3.Работа със символни низове и текст\4.Karate Strings\obj\Debug\4.Karate Strings.pdb

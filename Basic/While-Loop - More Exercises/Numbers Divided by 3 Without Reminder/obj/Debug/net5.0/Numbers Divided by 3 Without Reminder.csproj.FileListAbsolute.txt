@@ -1,0 +1,16 @@
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\net5.0\Numbers Divided by 3 Without Reminder.exe
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\net5.0\Numbers Divided by 3 Without Reminder.deps.json
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\net5.0\Numbers Divided by 3 Without Reminder.runtimeconfig.json
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\net5.0\Numbers Divided by 3 Without Reminder.runtimeconfig.dev.json
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\net5.0\Numbers Divided by 3 Without Reminder.dll
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\net5.0\Numbers Divided by 3 Without Reminder.pdb
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.csproj.AssemblyReference.cache
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.AssemblyInfoInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.AssemblyInfo.cs
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.dll
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\refint\Numbers Divided by 3 Without Reminder.dll
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.pdb
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\Numbers Divided by 3 Without Reminder.genruntimeconfig.cache
+F:\файлове\programi\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\net5.0\ref\Numbers Divided by 3 Without Reminder.dll

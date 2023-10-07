@@ -1,0 +1,8 @@
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\bin\Debug\_3.Изпрати_ми_Email__Unicode_.exe.config
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\bin\Debug\_3.Изпрати_ми_Email__Unicode_.exe
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\bin\Debug\_3.Изпрати_ми_Email__Unicode_.pdb
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\obj\Debug\3. Изпрати ми Email (Unicode).csproj.AssemblyReference.cache
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\obj\Debug\3. Изпрати ми Email (Unicode).csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\obj\Debug\3. Изпрати ми Email (Unicode).csproj.CoreCompileInputs.cache
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\obj\Debug\_3.Изпрати_ми_Email__Unicode_.exe
+F:\файлове\programi\3.Работа със символни низове и текст\3. Изпрати ми Email (Unicode)\obj\Debug\_3.Изпрати_ми_Email__Unicode_.pdb

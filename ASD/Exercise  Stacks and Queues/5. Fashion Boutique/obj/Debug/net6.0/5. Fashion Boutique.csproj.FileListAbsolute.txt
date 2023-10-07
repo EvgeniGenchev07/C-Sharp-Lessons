@@ -1,0 +1,15 @@
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\bin\Debug\net6.0\5. Fashion Boutique.exe
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\bin\Debug\net6.0\5. Fashion Boutique.deps.json
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\bin\Debug\net6.0\5. Fashion Boutique.runtimeconfig.json
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\bin\Debug\net6.0\5. Fashion Boutique.dll
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\bin\Debug\net6.0\5. Fashion Boutique.pdb
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.csproj.AssemblyReference.cache
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.AssemblyInfoInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.AssemblyInfo.cs
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.csproj.CoreCompileInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.dll
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\refint\5. Fashion Boutique.dll
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.pdb
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\5. Fashion Boutique.genruntimeconfig.cache
+F:\files\programi\Exercise  Stacks and Queues\5. Fashion Boutique\obj\Debug\net6.0\ref\5. Fashion Boutique.dll

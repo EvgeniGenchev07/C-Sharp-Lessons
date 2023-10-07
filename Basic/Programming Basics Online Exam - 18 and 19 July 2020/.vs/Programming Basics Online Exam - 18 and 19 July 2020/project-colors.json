@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e9b8734-565a-4f7d-ae66-1c8ee9eb0625": {
+      "ProjectGuid": "5e9b8734-565a-4f7d-ae66-1c8ee9eb0625",
+      "DisplayName": "Agency Profit",
+      "ColorIndex": 0
+    },
+    "4a6dd700-08f6-4d8c-aff5-d5da71b0c0fd": {
+      "ProjectGuid": "4a6dd700-08f6-4d8c-aff5-d5da71b0c0fd",
+      "DisplayName": "Add Bags",
+      "ColorIndex": 1
+    },
+    "d96bfd71-806f-43c5-b494-bb5c70a6c862": {
+      "ProjectGuid": "d96bfd71-806f-43c5-b494-bb5c70a6c862",
+      "DisplayName": "Aluminum Joinery",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

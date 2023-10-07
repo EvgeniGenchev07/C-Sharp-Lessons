@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\Truck Driver.exe
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\Truck Driver.deps.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\Truck Driver.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\Truck Driver.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\Truck Driver.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\ref\Truck Driver.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\bin\Debug\net5.0\Truck Driver.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\ref\Truck Driver.dll
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.pdb
+F:\файлове\programi\Conditional Statements Advanced - More Exercises\Truck Driver\obj\Debug\net5.0\Truck Driver.genruntimeconfig.cache

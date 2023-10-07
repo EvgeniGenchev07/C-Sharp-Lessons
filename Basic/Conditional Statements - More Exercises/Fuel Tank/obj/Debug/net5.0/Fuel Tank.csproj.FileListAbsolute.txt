@@ -1,0 +1,15 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\Fuel Tank.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\Fuel Tank.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\Fuel Tank.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\Fuel Tank.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\Fuel Tank.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\ref\Fuel Tank.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\net5.0\Fuel Tank.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\ref\Fuel Tank.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\net5.0\Fuel Tank.genruntimeconfig.cache

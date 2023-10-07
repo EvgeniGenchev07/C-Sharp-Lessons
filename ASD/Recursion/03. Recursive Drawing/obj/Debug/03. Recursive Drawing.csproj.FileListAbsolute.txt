@@ -1,0 +1,8 @@
+F:\файлове\programi\Recursion\03. Recursive Drawing\bin\Debug\_03.Recursive_Drawing.exe.config
+F:\файлове\programi\Recursion\03. Recursive Drawing\bin\Debug\_03.Recursive_Drawing.exe
+F:\файлове\programi\Recursion\03. Recursive Drawing\bin\Debug\_03.Recursive_Drawing.pdb
+F:\файлове\programi\Recursion\03. Recursive Drawing\obj\Debug\03. Recursive Drawing.csproj.AssemblyReference.cache
+F:\файлове\programi\Recursion\03. Recursive Drawing\obj\Debug\03. Recursive Drawing.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Recursion\03. Recursive Drawing\obj\Debug\03. Recursive Drawing.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Recursion\03. Recursive Drawing\obj\Debug\_03.Recursive_Drawing.exe
+F:\файлове\programi\Recursion\03. Recursive Drawing\obj\Debug\_03.Recursive_Drawing.pdb

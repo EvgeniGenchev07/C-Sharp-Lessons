@@ -1,0 +1,8 @@
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\bin\Debug\_2.Дефиниране_на_клас_BankAccount__банкова_сметка_.exe.config
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\bin\Debug\_2.Дефиниране_на_клас_BankAccount__банкова_сметка_.exe
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\bin\Debug\_2.Дефиниране_на_клас_BankAccount__банкова_сметка_.pdb
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\obj\Debug\2. Дефиниране на клас BankAccount (банкова сметка).csproj.AssemblyReference.cache
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\obj\Debug\2. Дефиниране на клас BankAccount (банкова сметка).csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\obj\Debug\2. Дефиниране на клас BankAccount (банкова сметка).csproj.CoreCompileInputs.cache
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\obj\Debug\_2.Дефиниране_на_клас_BankAccount__банкова_сметка_.exe
+F:\файлове\programi\1. Дефиниране на класове\2. Дефиниране на клас BankAccount (банкова сметка)\obj\Debug\_2.Дефиниране_на_клас_BankAccount__банкова_сметка_.pdb

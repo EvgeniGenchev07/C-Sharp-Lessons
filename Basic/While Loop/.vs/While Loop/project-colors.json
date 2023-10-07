@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28ecbc75-e7ee-4d67-bc06-58274800d8e0": {
+      "ProjectGuid": "28ecbc75-e7ee-4d67-bc06-58274800d8e0",
+      "DisplayName": "Read Text",
+      "ColorIndex": 0
+    },
+    "1f7dd32a-de24-452e-994c-fe9f443e248d": {
+      "ProjectGuid": "1f7dd32a-de24-452e-994c-fe9f443e248d",
+      "DisplayName": "Password",
+      "ColorIndex": 1
+    },
+    "b5d93279-1fc9-45ee-aa59-8a8367c80903": {
+      "ProjectGuid": "b5d93279-1fc9-45ee-aa59-8a8367c80903",
+      "DisplayName": "Sum Numbers",
+      "ColorIndex": 2
+    },
+    "8bbfada4-b715-412e-9d4d-3bf29c0e444a": {
+      "ProjectGuid": "8bbfada4-b715-412e-9d4d-3bf29c0e444a",
+      "DisplayName": "Sequence 2k+1",
+      "ColorIndex": 3
+    },
+    "b350c19c-4c56-40b8-bae3-aa26f137238f": {
+      "ProjectGuid": "b350c19c-4c56-40b8-bae3-aa26f137238f",
+      "DisplayName": "Account Balance",
+      "ColorIndex": 4
+    },
+    "d7b96a30-ce9b-497b-b818-baeef5a0dc3f": {
+      "ProjectGuid": "d7b96a30-ce9b-497b-b818-baeef5a0dc3f",
+      "DisplayName": "Max number",
+      "ColorIndex": 5
+    },
+    "71297251-07c6-4eb5-be2b-c380b7f1395d": {
+      "ProjectGuid": "71297251-07c6-4eb5-be2b-c380b7f1395d",
+      "DisplayName": "Min number",
+      "ColorIndex": 6
+    },
+    "aa2058f0-bdd0-4c99-b43e-5c93d8056018": {
+      "ProjectGuid": "aa2058f0-bdd0-4c99-b43e-5c93d8056018",
+      "DisplayName": "Graduation",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,8 @@
+F:\файлове\programi\Recursion\1\bin\Debug\1.exe.config
+F:\файлове\programi\Recursion\1\bin\Debug\1.exe
+F:\файлове\programi\Recursion\1\bin\Debug\1.pdb
+F:\файлове\programi\Recursion\1\obj\Debug\1.csproj.AssemblyReference.cache
+F:\файлове\programi\Recursion\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Recursion\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Recursion\1\obj\Debug\1.exe
+F:\файлове\programi\Recursion\1\obj\Debug\1.pdb

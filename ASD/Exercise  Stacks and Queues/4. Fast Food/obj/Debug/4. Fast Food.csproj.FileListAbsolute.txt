@@ -1,0 +1,8 @@
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\bin\Debug\_4.Fast_Food.exe.config
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\bin\Debug\_4.Fast_Food.exe
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\bin\Debug\_4.Fast_Food.pdb
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\obj\Debug\4. Fast Food.csproj.AssemblyReference.cache
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\obj\Debug\4. Fast Food.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\obj\Debug\4. Fast Food.csproj.CoreCompileInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\obj\Debug\_4.Fast_Food.exe
+F:\files\programi\Exercise  Stacks and Queues\4. Fast Food\obj\Debug\_4.Fast_Food.pdb

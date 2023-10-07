@@ -1,0 +1,8 @@
+F:\files\programi\Recursion\Drawing\bin\Debug\Drawing.exe.config
+F:\files\programi\Recursion\Drawing\bin\Debug\Drawing.exe
+F:\files\programi\Recursion\Drawing\bin\Debug\Drawing.pdb
+F:\files\programi\Recursion\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Recursion\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\Drawing\obj\Debug\Drawing.exe
+F:\files\programi\Recursion\Drawing\obj\Debug\Drawing.pdb

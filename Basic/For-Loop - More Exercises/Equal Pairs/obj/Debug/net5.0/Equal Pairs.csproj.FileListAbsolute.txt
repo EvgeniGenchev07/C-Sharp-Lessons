@@ -1,0 +1,16 @@
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\bin\Debug\net5.0\Equal Pairs.exe
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\bin\Debug\net5.0\Equal Pairs.deps.json
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\bin\Debug\net5.0\Equal Pairs.runtimeconfig.json
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\bin\Debug\net5.0\Equal Pairs.runtimeconfig.dev.json
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\bin\Debug\net5.0\Equal Pairs.dll
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\bin\Debug\net5.0\Equal Pairs.pdb
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.csproj.AssemblyReference.cache
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.AssemblyInfoInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.AssemblyInfo.cs
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.dll
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\refint\Equal Pairs.dll
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.pdb
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\Equal Pairs.genruntimeconfig.cache
+F:\файлове\programi\For-Loop - More Exercises\Equal Pairs\obj\Debug\net5.0\ref\Equal Pairs.dll

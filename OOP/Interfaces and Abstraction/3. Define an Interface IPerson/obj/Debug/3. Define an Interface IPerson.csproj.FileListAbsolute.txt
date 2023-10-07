@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\bin\Debug\_3.Define_an_Interface_IPerson.exe.config
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\bin\Debug\_3.Define_an_Interface_IPerson.exe
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\bin\Debug\_3.Define_an_Interface_IPerson.pdb
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\obj\Debug\3. Define an Interface IPerson.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\obj\Debug\3. Define an Interface IPerson.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\obj\Debug\3. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\obj\Debug\_3.Define_an_Interface_IPerson.exe
+F:\files\programi\Interfaces and Abstraction\3. Define an Interface IPerson\obj\Debug\_3.Define_an_Interface_IPerson.pdb

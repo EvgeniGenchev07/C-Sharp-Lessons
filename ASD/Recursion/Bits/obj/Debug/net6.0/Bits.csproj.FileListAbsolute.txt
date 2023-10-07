@@ -1,0 +1,15 @@
+F:\files\programi\Recursion\Bits\bin\Debug\net6.0\Bits.exe
+F:\files\programi\Recursion\Bits\bin\Debug\net6.0\Bits.deps.json
+F:\files\programi\Recursion\Bits\bin\Debug\net6.0\Bits.runtimeconfig.json
+F:\files\programi\Recursion\Bits\bin\Debug\net6.0\Bits.dll
+F:\files\programi\Recursion\Bits\bin\Debug\net6.0\Bits.pdb
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.AssemblyInfoInputs.cache
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.AssemblyInfo.cs
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.dll
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\refint\Bits.dll
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.pdb
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\Bits.genruntimeconfig.cache
+F:\files\programi\Recursion\Bits\obj\Debug\net6.0\ref\Bits.dll

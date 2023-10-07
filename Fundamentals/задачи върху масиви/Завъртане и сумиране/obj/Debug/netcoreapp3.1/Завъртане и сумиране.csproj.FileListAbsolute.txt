@@ -1,0 +1,14 @@
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.csproj.AssemblyReference.cache
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.AssemblyInfoInputs.cache
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.AssemblyInfo.cs
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.csproj.CoreCompileInputs.cache
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\bin\Debug\netcoreapp3.1\Завъртане и сумиране.exe
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\bin\Debug\netcoreapp3.1\Завъртане и сумиране.deps.json
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\bin\Debug\netcoreapp3.1\Завъртане и сумиране.runtimeconfig.json
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\bin\Debug\netcoreapp3.1\Завъртане и сумиране.runtimeconfig.dev.json
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\bin\Debug\netcoreapp3.1\Завъртане и сумиране.dll
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\bin\Debug\netcoreapp3.1\Завъртане и сумиране.pdb
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.dll
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.pdb
+F:\файлове\programi\задачи върху масиви\Завъртане и сумиране\obj\Debug\netcoreapp3.1\Завъртане и сумиране.genruntimeconfig.cache

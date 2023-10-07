@@ -1,0 +1,8 @@
+F:\файлове\programi\Stream\Stream\bin\Debug\Stream.exe.config
+F:\файлове\programi\Stream\Stream\bin\Debug\Stream.exe
+F:\файлове\programi\Stream\Stream\bin\Debug\Stream.pdb
+F:\файлове\programi\Stream\Stream\obj\Debug\Stream.csproj.AssemblyReference.cache
+F:\файлове\programi\Stream\Stream\obj\Debug\Stream.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Stream\Stream\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Stream\Stream\obj\Debug\Stream.exe
+F:\файлове\programi\Stream\Stream\obj\Debug\Stream.pdb

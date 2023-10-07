@@ -1,0 +1,8 @@
+F:\файлове\programi\Recursion\nestedloops\bin\Debug\nestedloops.exe.config
+F:\файлове\programi\Recursion\nestedloops\bin\Debug\nestedloops.exe
+F:\файлове\programi\Recursion\nestedloops\bin\Debug\nestedloops.pdb
+F:\файлове\programi\Recursion\nestedloops\obj\Debug\nestedloops.csproj.AssemblyReference.cache
+F:\файлове\programi\Recursion\nestedloops\obj\Debug\nestedloops.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Recursion\nestedloops\obj\Debug\nestedloops.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Recursion\nestedloops\obj\Debug\nestedloops.exe
+F:\файлове\programi\Recursion\nestedloops\obj\Debug\nestedloops.pdb

@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\Harvest.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\Harvest.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\Harvest.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\Harvest.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\Harvest.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\ref\Harvest.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\bin\Debug\net5.0\Harvest.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\ref\Harvest.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Harvest\obj\Debug\net5.0\Harvest.genruntimeconfig.cache

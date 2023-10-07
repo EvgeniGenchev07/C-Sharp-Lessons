@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\Conditional Statements.exe
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\Conditional Statements.deps.json
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\Conditional Statements.runtimeconfig.json
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\Conditional Statements.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\Conditional Statements.dll
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\ref\Conditional Statements.dll
+F:\файлове\programi\Conditional Statements\Review\bin\Debug\net5.0\Conditional Statements.pdb
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.dll
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\ref\Conditional Statements.dll
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.pdb
+F:\файлове\programi\Conditional Statements\Review\obj\Debug\net5.0\Conditional Statements.genruntimeconfig.cache

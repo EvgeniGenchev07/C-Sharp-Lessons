@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Променлив списък", "1. Променлив списък\1. Променлив списък.csproj", "{BEC11012-264D-4992-A936-DD1ACC2F35E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Търсене на число", "2. Търсене на число\2. Търсене на число.csproj", "{E78684EC-CB82-4E42-8BFD-9E11D60CD3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Множество от сумите на последните k числа", "3. Множество от сумите на последните k числа\3. Множество от сумите на последните k числа.csproj", "{49BB011D-E05D-41F2-9689-ABB5308B3C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Извличане на средните 1, 2 или 3 елемента", "Извличане на средните 1, 2 или 3 елемента\Извличане на средните 1, 2 или 3 елемента.csproj", "{A138428C-DB3E-41BE-A0AF-ACC809533B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Списъчен манипулатор", "Списъчен манипулатор\Списъчен манипулатор.csproj", "{16219F33-9870-4B98-906C-F3E77D519526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Най-дълга нарастваще  подредица", "Най-дълга нарастваще  подредица\Най-дълга нарастваще  подредица.csproj", "{4A165935-4F1B-44A2-93FF-26DBF1FA0346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC11012-264D-4992-A936-DD1ACC2F35E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC11012-264D-4992-A936-DD1ACC2F35E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC11012-264D-4992-A936-DD1ACC2F35E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC11012-264D-4992-A936-DD1ACC2F35E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78684EC-CB82-4E42-8BFD-9E11D60CD3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78684EC-CB82-4E42-8BFD-9E11D60CD3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78684EC-CB82-4E42-8BFD-9E11D60CD3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78684EC-CB82-4E42-8BFD-9E11D60CD3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BB011D-E05D-41F2-9689-ABB5308B3C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BB011D-E05D-41F2-9689-ABB5308B3C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BB011D-E05D-41F2-9689-ABB5308B3C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BB011D-E05D-41F2-9689-ABB5308B3C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A138428C-DB3E-41BE-A0AF-ACC809533B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A138428C-DB3E-41BE-A0AF-ACC809533B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A138428C-DB3E-41BE-A0AF-ACC809533B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A138428C-DB3E-41BE-A0AF-ACC809533B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16219F33-9870-4B98-906C-F3E77D519526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16219F33-9870-4B98-906C-F3E77D519526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16219F33-9870-4B98-906C-F3E77D519526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16219F33-9870-4B98-906C-F3E77D519526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A165935-4F1B-44A2-93FF-26DBF1FA0346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A165935-4F1B-44A2-93FF-26DBF1FA0346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A165935-4F1B-44A2-93FF-26DBF1FA0346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A165935-4F1B-44A2-93FF-26DBF1FA0346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42EAAEFA-DC48-4EEC-9D11-1C7D3EDD5B3B}
+	EndGlobalSection
+EndGlobal

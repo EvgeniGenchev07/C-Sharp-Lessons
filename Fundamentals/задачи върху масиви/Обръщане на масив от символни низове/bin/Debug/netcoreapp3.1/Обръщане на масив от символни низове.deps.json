@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Обръщане на масив от символни низове/1.0.0": {
+        "runtime": {
+          "Обръщане на масив от символни низове.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Обръщане на масив от символни низове/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

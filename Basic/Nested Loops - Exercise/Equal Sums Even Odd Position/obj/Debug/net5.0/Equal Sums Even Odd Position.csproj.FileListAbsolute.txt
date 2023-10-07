@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\bin\Debug\net5.0\Equal Sums Even Odd Position.exe
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\bin\Debug\net5.0\Equal Sums Even Odd Position.deps.json
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\bin\Debug\net5.0\Equal Sums Even Odd Position.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\bin\Debug\net5.0\Equal Sums Even Odd Position.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\bin\Debug\net5.0\Equal Sums Even Odd Position.dll
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\bin\Debug\net5.0\Equal Sums Even Odd Position.pdb
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.dll
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\refint\Equal Sums Even Odd Position.dll
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.pdb
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\Equal Sums Even Odd Position.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Exercise\Equal Sums Even Odd Position\obj\Debug\net5.0\ref\Equal Sums Even Odd Position.dll

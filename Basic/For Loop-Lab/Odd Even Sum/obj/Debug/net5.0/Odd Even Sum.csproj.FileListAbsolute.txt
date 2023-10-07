@@ -1,0 +1,16 @@
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.exe
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.deps.json
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.runtimeconfig.json
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.runtimeconfig.dev.json
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.dll
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\ref\Odd Even Sum.dll
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.pdb
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.csproj.AssemblyReference.cache
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.AssemblyInfoInputs.cache
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.AssemblyInfo.cs
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.dll
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\ref\Odd Even Sum.dll
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.pdb
+F:\файлове\programi\For Loop-Lab\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.genruntimeconfig.cache

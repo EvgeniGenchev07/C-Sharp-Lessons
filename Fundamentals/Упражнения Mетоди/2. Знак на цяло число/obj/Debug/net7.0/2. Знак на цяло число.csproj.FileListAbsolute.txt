@@ -1,0 +1,15 @@
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\bin\Debug\net7.0\2. Знак на цяло число.exe
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\bin\Debug\net7.0\2. Знак на цяло число.deps.json
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\bin\Debug\net7.0\2. Знак на цяло число.runtimeconfig.json
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\bin\Debug\net7.0\2. Знак на цяло число.dll
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\bin\Debug\net7.0\2. Знак на цяло число.pdb
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.csproj.AssemblyReference.cache
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.AssemblyInfoInputs.cache
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.AssemblyInfo.cs
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.dll
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\refint\2. Знак на цяло число.dll
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.pdb
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\2. Знак на цяло число.genruntimeconfig.cache
+F:\файлове\programi\Упражнения Mетоди\2. Знак на цяло число\obj\Debug\net7.0\ref\2. Знак на цяло число.dll

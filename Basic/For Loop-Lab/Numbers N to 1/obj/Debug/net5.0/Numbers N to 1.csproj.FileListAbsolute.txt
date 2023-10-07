@@ -1,0 +1,16 @@
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\Numbers N to 1.exe
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\Numbers N to 1.deps.json
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\Numbers N to 1.runtimeconfig.json
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\Numbers N to 1.runtimeconfig.dev.json
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\Numbers N to 1.dll
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\ref\Numbers N to 1.dll
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\bin\Debug\net5.0\Numbers N to 1.pdb
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.csproj.AssemblyReference.cache
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.AssemblyInfoInputs.cache
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.AssemblyInfo.cs
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.dll
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\ref\Numbers N to 1.dll
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.pdb
+F:\файлове\programi\For Loop-Lab\Numbers N to 1\obj\Debug\net5.0\Numbers N to 1.genruntimeconfig.cache

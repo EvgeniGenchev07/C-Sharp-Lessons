@@ -1,0 +1,8 @@
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\bin\Debug\_2.Телефонен_указател.exe.config
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\bin\Debug\_2.Телефонен_указател.exe
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\bin\Debug\_2.Телефонен_указател.pdb
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\obj\Debug\2. Телефонен указател.csproj.AssemblyReference.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\obj\Debug\2. Телефонен указател.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\obj\Debug\2. Телефонен указател.csproj.CoreCompileInputs.cache
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\obj\Debug\_2.Телефонен_указател.exe
+F:\файлове\programi\27.Rechnici-Uprazhnenie\2. Телефонен указател\obj\Debug\_2.Телефонен_указател.pdb

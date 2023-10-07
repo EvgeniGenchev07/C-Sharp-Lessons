@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\net5.0\Sum of Two Numbers.exe
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\net5.0\Sum of Two Numbers.deps.json
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\net5.0\Sum of Two Numbers.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\net5.0\Sum of Two Numbers.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\net5.0\Sum of Two Numbers.dll
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\bin\Debug\net5.0\Sum of Two Numbers.pdb
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.dll
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\refint\Sum of Two Numbers.dll
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.pdb
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\Sum of Two Numbers.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Lab\Sum of Two Numbers\obj\Debug\net5.0\ref\Sum of Two Numbers.dll

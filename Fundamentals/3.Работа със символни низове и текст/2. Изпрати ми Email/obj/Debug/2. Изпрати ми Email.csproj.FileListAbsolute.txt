@@ -1,0 +1,8 @@
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\bin\Debug\_2.Изпрати_ми_Email.exe.config
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\bin\Debug\_2.Изпрати_ми_Email.exe
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\bin\Debug\_2.Изпрати_ми_Email.pdb
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\obj\Debug\2. Изпрати ми Email.csproj.AssemblyReference.cache
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\obj\Debug\2. Изпрати ми Email.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\obj\Debug\2. Изпрати ми Email.csproj.CoreCompileInputs.cache
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\obj\Debug\_2.Изпрати_ми_Email.exe
+F:\файлове\programi\3.Работа със символни низове и текст\2. Изпрати ми Email\obj\Debug\_2.Изпрати_ми_Email.pdb

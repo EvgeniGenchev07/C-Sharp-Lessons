@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\obj\Debug\4. Multiple Implementation.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\obj\Debug\4. Multiple Implementation.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\obj\Debug\4. Multiple Implementation.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\bin\Debug\_4.Multiple_Implementation.exe.config
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\bin\Debug\_4.Multiple_Implementation.exe
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\bin\Debug\_4.Multiple_Implementation.pdb
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\obj\Debug\_4.Multiple_Implementation.exe
+F:\files\programi\Interfaces and Abstraction\4. Multiple Implementation\obj\Debug\_4.Multiple_Implementation.pdb

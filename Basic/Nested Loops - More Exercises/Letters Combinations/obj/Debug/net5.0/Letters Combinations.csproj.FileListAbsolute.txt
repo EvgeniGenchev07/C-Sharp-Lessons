@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\bin\Debug\net5.0\Letters Combinations.exe
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\bin\Debug\net5.0\Letters Combinations.deps.json
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\bin\Debug\net5.0\Letters Combinations.runtimeconfig.json
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\bin\Debug\net5.0\Letters Combinations.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\bin\Debug\net5.0\Letters Combinations.dll
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\bin\Debug\net5.0\Letters Combinations.pdb
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.dll
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\refint\Letters Combinations.dll
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.pdb
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\Letters Combinations.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - More Exercises\Letters Combinations\obj\Debug\net5.0\ref\Letters Combinations.dll

@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\bin\Debug\net5.0\Sum Prime Non Prime.exe
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\bin\Debug\net5.0\Sum Prime Non Prime.deps.json
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\bin\Debug\net5.0\Sum Prime Non Prime.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\bin\Debug\net5.0\Sum Prime Non Prime.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\bin\Debug\net5.0\Sum Prime Non Prime.dll
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\bin\Debug\net5.0\Sum Prime Non Prime.pdb
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.dll
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\refint\Sum Prime Non Prime.dll
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.pdb
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\Sum Prime Non Prime.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Exercise\Sum Prime Non Prime\obj\Debug\net5.0\ref\Sum Prime Non Prime.dll

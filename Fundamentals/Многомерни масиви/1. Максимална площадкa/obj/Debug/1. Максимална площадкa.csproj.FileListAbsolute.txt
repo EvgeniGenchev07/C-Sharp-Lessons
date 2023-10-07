@@ -1,0 +1,8 @@
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\bin\Debug\_1.Максимална_площадкa.exe.config
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\bin\Debug\_1.Максимална_площадкa.exe
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\bin\Debug\_1.Максимална_площадкa.pdb
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\obj\Debug\1. Максимална площадкa.csproj.AssemblyReference.cache
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\obj\Debug\1. Максимална площадкa.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\obj\Debug\1. Максимална площадкa.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\obj\Debug\_1.Максимална_площадкa.exe
+F:\файлове\programi\Многомерни масиви\1. Максимална площадкa\obj\Debug\_1.Максимална_площадкa.pdb

@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\bin\Debug\net5.0\Multiplication Table.exe
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\bin\Debug\net5.0\Multiplication Table.deps.json
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\bin\Debug\net5.0\Multiplication Table.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\bin\Debug\net5.0\Multiplication Table.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\bin\Debug\net5.0\Multiplication Table.dll
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\bin\Debug\net5.0\Multiplication Table.pdb
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.dll
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\refint\Multiplication Table.dll
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.pdb
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\Multiplication Table.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Lab\Multiplication Table\obj\Debug\net5.0\ref\Multiplication Table.dll

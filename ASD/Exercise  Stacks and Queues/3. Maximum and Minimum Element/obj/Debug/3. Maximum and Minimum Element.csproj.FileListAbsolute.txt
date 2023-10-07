@@ -1,0 +1,8 @@
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\_3.Maximum_and_Minimum_Element.exe.config
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\_3.Maximum_and_Minimum_Element.exe
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\_3.Maximum_and_Minimum_Element.pdb
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\3. Maximum and Minimum Element.csproj.AssemblyReference.cache
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\3. Maximum and Minimum Element.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\3. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\_3.Maximum_and_Minimum_Element.exe
+F:\files\programi\Exercise  Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\_3.Maximum_and_Minimum_Element.pdb

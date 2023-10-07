@@ -1,0 +1,8 @@
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\bin\Debug\_2.Дефиниране_на_клас_BankAccount.exe.config
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\bin\Debug\_2.Дефиниране_на_клас_BankAccount.exe
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\bin\Debug\_2.Дефиниране_на_клас_BankAccount.pdb
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\obj\Debug\2. Дефиниране на клас BankAccount.csproj.AssemblyReference.cache
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\obj\Debug\2. Дефиниране на клас BankAccount.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\obj\Debug\2. Дефиниране на клас BankAccount.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\obj\Debug\_2.Дефиниране_на_клас_BankAccount.exe
+F:\файлове\programi\Дефиниране на методи в класовете\2. Дефиниране на клас BankAccount\obj\Debug\_2.Дефиниране_на_клас_BankAccount.pdb

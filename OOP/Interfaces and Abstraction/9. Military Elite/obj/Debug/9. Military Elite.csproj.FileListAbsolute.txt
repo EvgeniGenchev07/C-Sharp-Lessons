@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\bin\Debug\_9.Military_Elite.exe.config
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\bin\Debug\_9.Military_Elite.exe
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\bin\Debug\_9.Military_Elite.pdb
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\obj\Debug\9. Military Elite.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\obj\Debug\9. Military Elite.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\obj\Debug\9. Military Elite.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\obj\Debug\_9.Military_Elite.exe
+F:\files\programi\Interfaces and Abstraction\9. Military Elite\obj\Debug\_9.Military_Elite.pdb

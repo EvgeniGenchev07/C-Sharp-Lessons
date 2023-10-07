@@ -1,0 +1,8 @@
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\obj\Debug\1. Shapes.csproj.AssemblyReference.cache
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\obj\Debug\1. Shapes.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\obj\Debug\1. Shapes.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\bin\Debug\_1.Shapes.exe.config
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\bin\Debug\_1.Shapes.exe
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\bin\Debug\_1.Shapes.pdb
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\obj\Debug\_1.Shapes.exe
+F:\файлове\programi\Interfaces and Abstraction\1. Shapes\obj\Debug\_1.Shapes.pdb

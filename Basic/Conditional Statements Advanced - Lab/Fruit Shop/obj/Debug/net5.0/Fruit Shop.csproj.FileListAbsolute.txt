@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\Fruit Shop.exe
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\Fruit Shop.deps.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\Fruit Shop.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\Fruit Shop.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\Fruit Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\ref\Fruit Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\net5.0\Fruit Shop.pdb
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\ref\Fruit Shop.dll
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.pdb
+F:\файлове\programi\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\net5.0\Fruit Shop.genruntimeconfig.cache

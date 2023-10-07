@@ -1,0 +1,8 @@
+F:\files\programi\Principles of OOP\ChatRoom\bin\Debug\ChatRoom.exe.config
+F:\files\programi\Principles of OOP\ChatRoom\bin\Debug\ChatRoom.exe
+F:\files\programi\Principles of OOP\ChatRoom\bin\Debug\ChatRoom.pdb
+F:\files\programi\Principles of OOP\ChatRoom\obj\Debug\ChatRoom.csproj.AssemblyReference.cache
+F:\files\programi\Principles of OOP\ChatRoom\obj\Debug\ChatRoom.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Principles of OOP\ChatRoom\obj\Debug\ChatRoom.csproj.CoreCompileInputs.cache
+F:\files\programi\Principles of OOP\ChatRoom\obj\Debug\ChatRoom.exe
+F:\files\programi\Principles of OOP\ChatRoom\obj\Debug\ChatRoom.pdb

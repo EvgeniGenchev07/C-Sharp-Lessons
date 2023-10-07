@@ -1,0 +1,11 @@
+F:\files\programi\LazyRecurcion\LazyRecurcion\bin\Debug\LazyRecurcion.exe.config
+F:\files\programi\LazyRecurcion\LazyRecurcion\bin\Debug\LazyRecurcion.exe
+F:\files\programi\LazyRecurcion\LazyRecurcion\bin\Debug\LazyRecurcion.pdb
+F:\files\programi\LazyRecurcion\LazyRecurcion\bin\Debug\LazyClasses.dll
+F:\files\programi\LazyRecurcion\LazyRecurcion\bin\Debug\LazyClasses.pdb
+F:\files\programi\LazyRecurcion\LazyRecurcion\obj\Debug\LazyRecurcion.csproj.AssemblyReference.cache
+F:\files\programi\LazyRecurcion\LazyRecurcion\obj\Debug\LazyRecurcion.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\LazyRecurcion\LazyRecurcion\obj\Debug\LazyRecurcion.csproj.CoreCompileInputs.cache
+F:\files\programi\LazyRecurcion\LazyRecurcion\obj\Debug\LazyRecurcion.csproj.CopyComplete
+F:\files\programi\LazyRecurcion\LazyRecurcion\obj\Debug\LazyRecurcion.exe
+F:\files\programi\LazyRecurcion\LazyRecurcion\obj\Debug\LazyRecurcion.pdb

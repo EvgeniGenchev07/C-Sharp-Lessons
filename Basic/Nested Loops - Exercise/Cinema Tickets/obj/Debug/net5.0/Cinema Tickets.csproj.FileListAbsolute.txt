@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\bin\Debug\net5.0\Cinema Tickets.exe
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\bin\Debug\net5.0\Cinema Tickets.deps.json
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\bin\Debug\net5.0\Cinema Tickets.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\bin\Debug\net5.0\Cinema Tickets.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\bin\Debug\net5.0\Cinema Tickets.dll
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\bin\Debug\net5.0\Cinema Tickets.pdb
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.dll
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\refint\Cinema Tickets.dll
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.pdb
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\Cinema Tickets.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Exercise\Cinema Tickets\obj\Debug\net5.0\ref\Cinema Tickets.dll

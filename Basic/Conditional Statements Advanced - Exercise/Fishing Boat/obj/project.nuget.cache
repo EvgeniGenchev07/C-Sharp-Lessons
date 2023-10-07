@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCmZ6dh4OJB116bIkH6j8ttE6isxj2/Cudwh5D3RLS5tfK7//FfQpmDNViS5fDyOFxRpLxA0vGfE/5XQT9DZrw==",
+  "success": true,
+  "projectFilePath": "F:\\файлове\\programi\\Conditional Statements Advanced - Exercise\\Fishing Boat\\Fishing Boat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

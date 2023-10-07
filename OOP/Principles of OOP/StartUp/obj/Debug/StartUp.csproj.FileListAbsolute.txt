@@ -1,0 +1,8 @@
+F:\файлове\programi\Principles of OOP\StartUp\bin\Debug\StartUp.exe.config
+F:\файлове\programi\Principles of OOP\StartUp\bin\Debug\StartUp.exe
+F:\файлове\programi\Principles of OOP\StartUp\bin\Debug\StartUp.pdb
+F:\файлове\programi\Principles of OOP\StartUp\obj\Debug\StartUp.csproj.AssemblyReference.cache
+F:\файлове\programi\Principles of OOP\StartUp\obj\Debug\StartUp.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Principles of OOP\StartUp\obj\Debug\StartUp.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Principles of OOP\StartUp\obj\Debug\StartUp.exe
+F:\файлове\programi\Principles of OOP\StartUp\obj\Debug\StartUp.pdb

@@ -1,0 +1,8 @@
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\bin\Debug\_1.Дефиниране_на_клас_Person.exe.config
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\bin\Debug\_1.Дефиниране_на_клас_Person.exe
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\bin\Debug\_1.Дефиниране_на_клас_Person.pdb
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\obj\Debug\1. Дефиниране на клас Person.csproj.AssemblyReference.cache
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\obj\Debug\1. Дефиниране на клас Person.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\obj\Debug\1. Дефиниране на клас Person.csproj.CoreCompileInputs.cache
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\obj\Debug\_1.Дефиниране_на_клас_Person.exe
+F:\файлове\programi\1. Дефиниране на класове\1. Дефиниране на клас Person\obj\Debug\_1.Дефиниране_на_клас_Person.pdb

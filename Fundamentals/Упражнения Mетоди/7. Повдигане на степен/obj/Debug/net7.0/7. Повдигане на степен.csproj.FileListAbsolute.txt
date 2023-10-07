@@ -1,0 +1,15 @@
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\bin\Debug\net7.0\7. Повдигане на степен.exe
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\bin\Debug\net7.0\7. Повдигане на степен.deps.json
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\bin\Debug\net7.0\7. Повдигане на степен.runtimeconfig.json
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\bin\Debug\net7.0\7. Повдигане на степен.dll
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\bin\Debug\net7.0\7. Повдигане на степен.pdb
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.csproj.AssemblyReference.cache
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.AssemblyInfoInputs.cache
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.AssemblyInfo.cs
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.dll
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\refint\7. Повдигане на степен.dll
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.pdb
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\7. Повдигане на степен.genruntimeconfig.cache
+F:\файлове\programi\Упражнения Mетоди\7. Повдигане на степен\obj\Debug\net7.0\ref\7. Повдигане на степен.dll

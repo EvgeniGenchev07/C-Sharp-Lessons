@@ -1,0 +1,5 @@
+F:\файлове\programi\Conditional Statements Advanced - Exercise\New House\obj\Debug\net5.0\New House.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - Exercise\New House\obj\Debug\net5.0\New House.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - Exercise\New House\obj\Debug\net5.0\New House.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Exercise\New House\obj\Debug\net5.0\New House.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - Exercise\New House\obj\Debug\net5.0\New House.csproj.CoreCompileInputs.cache

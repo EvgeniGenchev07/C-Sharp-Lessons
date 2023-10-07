@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\Toy Shop.exe
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\Toy Shop.deps.json
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\Toy Shop.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\Toy Shop.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\Toy Shop.dll
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\ref\Toy Shop.dll
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\bin\Debug\net5.0\Toy Shop.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.dll
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\ref\Toy Shop.dll
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Toy Shop\obj\Debug\net5.0\Toy Shop.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Numbers Divided by 3 Without Reminder/1.0.0": {
+        "runtime": {
+          "Numbers Divided by 3 Without Reminder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numbers Divided by 3 Without Reminder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e279edfe-4dbd-41e5-8a17-198a1dfd620e": {
+      "ProjectGuid": "e279edfe-4dbd-41e5-8a17-198a1dfd620e",
+      "DisplayName": "Pipes In Pool",
+      "ColorIndex": 0
+    },
+    "f7170cbc-b418-47c0-a015-30ad7cea1f19": {
+      "ProjectGuid": "f7170cbc-b418-47c0-a015-30ad7cea1f19",
+      "DisplayName": "Sleepy Tom Cat",
+      "ColorIndex": 1
+    },
+    "d8920439-7a30-405f-a378-492e59f92c5f": {
+      "ProjectGuid": "d8920439-7a30-405f-a378-492e59f92c5f",
+      "DisplayName": "Harvest",
+      "ColorIndex": 2
+    },
+    "2ba7523b-9b7a-469f-9f26-243cf8df6948": {
+      "ProjectGuid": "2ba7523b-9b7a-469f-9f26-243cf8df6948",
+      "DisplayName": "Transport Price",
+      "ColorIndex": 3
+    },
+    "de3a4339-b731-4a01-8dbb-6c6a1ac31585": {
+      "ProjectGuid": "de3a4339-b731-4a01-8dbb-6c6a1ac31585",
+      "DisplayName": "Firm",
+      "ColorIndex": 4
+    },
+    "6e1e9098-151f-40d8-b9f8-0c265160b27f": {
+      "ProjectGuid": "6e1e9098-151f-40d8-b9f8-0c265160b27f",
+      "DisplayName": "Pets",
+      "ColorIndex": 5
+    },
+    "75846d5e-cc6c-468d-be53-90b0678c1068": {
+      "ProjectGuid": "75846d5e-cc6c-468d-be53-90b0678c1068",
+      "DisplayName": "Flower Shop",
+      "ColorIndex": 6
+    },
+    "30fa5a92-1067-497b-bd36-bfdbc63d8d19": {
+      "ProjectGuid": "30fa5a92-1067-497b-bd36-bfdbc63d8d19",
+      "DisplayName": "Fuel Tank",
+      "ColorIndex": 7
+    },
+    "69d5c78c-321f-4c2c-83f2-27fcfa780d2e": {
+      "ProjectGuid": "69d5c78c-321f-4c2c-83f2-27fcfa780d2e",
+      "DisplayName": "Fuel Tank - Part 2",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

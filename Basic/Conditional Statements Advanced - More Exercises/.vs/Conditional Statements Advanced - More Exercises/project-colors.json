@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29bca999-33a8-41d9-a629-f3ebf000827e": {
+      "ProjectGuid": "29bca999-33a8-41d9-a629-f3ebf000827e",
+      "DisplayName": "Match Tickets",
+      "ColorIndex": 0
+    },
+    "1ecf6a96-dace-4a9d-bb44-62ee99211f36": {
+      "ProjectGuid": "1ecf6a96-dace-4a9d-bb44-62ee99211f36",
+      "DisplayName": "Bike Race",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5797b0cb-fb07-4f87-85a3-6e74780613b1": {
+      "ProjectGuid": "5797b0cb-fb07-4f87-85a3-6e74780613b1",
+      "DisplayName": "Flowers",
+      "ColorIndex": 2
+    },
+    "b3ca4b36-7744-4558-8c24-df039b6c9c7d": {
+      "ProjectGuid": "b3ca4b36-7744-4558-8c24-df039b6c9c7d",
+      "DisplayName": "Car To Go",
+      "ColorIndex": 3
+    },
+    "7dae492d-6135-40af-871c-bdb0df5011e3": {
+      "ProjectGuid": "7dae492d-6135-40af-871c-bdb0df5011e3",
+      "DisplayName": "Vacation",
+      "ColorIndex": 4
+    },
+    "3db7f4a2-4010-4ede-8f5f-1f805e763be6": {
+      "ProjectGuid": "3db7f4a2-4010-4ede-8f5f-1f805e763be6",
+      "DisplayName": "Truck Driver",
+      "ColorIndex": 5
+    },
+    "89947089-4881-4a0a-974e-0215057f479d": {
+      "ProjectGuid": "89947089-4881-4a0a-974e-0215057f479d",
+      "DisplayName": "School Camp",
+      "ColorIndex": 6
+    },
+    "342a1314-4e22-4f3b-982f-3701f485a8f0": {
+      "ProjectGuid": "342a1314-4e22-4f3b-982f-3701f485a8f0",
+      "DisplayName": "Numbers from 1 to 10",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

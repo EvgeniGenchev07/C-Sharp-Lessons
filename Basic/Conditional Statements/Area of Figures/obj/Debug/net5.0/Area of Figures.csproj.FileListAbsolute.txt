@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\Area of Figures.exe
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\Area of Figures.deps.json
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\Area of Figures.runtimeconfig.json
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\Area of Figures.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\Area of Figures.dll
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\ref\Area of Figures.dll
+F:\файлове\programi\Conditional Statements\Area of Figures\bin\Debug\net5.0\Area of Figures.pdb
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.dll
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\ref\Area of Figures.dll
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.pdb
+F:\файлове\programi\Conditional Statements\Area of Figures\obj\Debug\net5.0\Area of Figures.genruntimeconfig.cache

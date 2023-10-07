@@ -1,0 +1,15 @@
+F:\files\programi\Recursion\Factoriel\bin\Debug\net6.0\Factoriel.exe
+F:\files\programi\Recursion\Factoriel\bin\Debug\net6.0\Factoriel.deps.json
+F:\files\programi\Recursion\Factoriel\bin\Debug\net6.0\Factoriel.runtimeconfig.json
+F:\files\programi\Recursion\Factoriel\bin\Debug\net6.0\Factoriel.dll
+F:\files\programi\Recursion\Factoriel\bin\Debug\net6.0\Factoriel.pdb
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.AssemblyInfoInputs.cache
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.AssemblyInfo.cs
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.dll
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\refint\Factoriel.dll
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.pdb
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\Factoriel.genruntimeconfig.cache
+F:\files\programi\Recursion\Factoriel\obj\Debug\net6.0\ref\Factoriel.dll

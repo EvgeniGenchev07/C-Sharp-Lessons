@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\bin\Debug\_8.Food_Shortage.exe.config
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\bin\Debug\_8.Food_Shortage.exe
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\bin\Debug\_8.Food_Shortage.pdb
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\obj\Debug\8. Food Shortage.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\obj\Debug\8. Food Shortage.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\obj\Debug\8. Food Shortage.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\obj\Debug\_8.Food_Shortage.exe
+F:\files\programi\Interfaces and Abstraction\8. Food Shortage\obj\Debug\_8.Food_Shortage.pdb

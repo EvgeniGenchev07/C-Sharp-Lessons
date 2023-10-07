@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d019c9a-a45a-4d26-a516-182f2b34b242": {
+      "ProjectGuid": "3d019c9a-a45a-4d26-a516-182f2b34b242",
+      "DisplayName": "Sum Seconds",
+      "ColorIndex": 0
+    },
+    "b1194e1e-2071-4109-a366-e658300bafb8": {
+      "ProjectGuid": "b1194e1e-2071-4109-a366-e658300bafb8",
+      "DisplayName": "Shopping",
+      "ColorIndex": 1
+    },
+    "8a808b9c-7cb4-49db-b1a8-5ad98a9b43b9": {
+      "ProjectGuid": "8a808b9c-7cb4-49db-b1a8-5ad98a9b43b9",
+      "DisplayName": "Bonus Score",
+      "ColorIndex": 2
+    },
+    "cc739110-764a-47b4-bdf0-be288575bae5": {
+      "ProjectGuid": "cc739110-764a-47b4-bdf0-be288575bae5",
+      "DisplayName": "Lunch Break",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "529896dd-acd3-40bd-bc4a-c50c22521ac2": {
+      "ProjectGuid": "529896dd-acd3-40bd-bc4a-c50c22521ac2",
+      "DisplayName": "World Swimming Record",
+      "ColorIndex": 4
+    },
+    "40b0e443-877d-41e2-bbc5-90f713a10106": {
+      "ProjectGuid": "40b0e443-877d-41e2-bbc5-90f713a10106",
+      "DisplayName": "Godzilla vs. Kong",
+      "ColorIndex": 5
+    },
+    "b79fae6d-c053-488f-b20e-1ae0ce269f66": {
+      "ProjectGuid": "b79fae6d-c053-488f-b20e-1ae0ce269f66",
+      "DisplayName": "Toy Shop",
+      "ColorIndex": 6
+    },
+    "7cdbcb70-90f7-42e1-adb8-81f8bded0e71": {
+      "ProjectGuid": "7cdbcb70-90f7-42e1-adb8-81f8bded0e71",
+      "DisplayName": "Time + 15 Minutes",
+      "ColorIndex": 7
+    },
+    "f5ff437a-ba2b-4827-b596-f0dfdb54c23a": {
+      "ProjectGuid": "f5ff437a-ba2b-4827-b596-f0dfdb54c23a",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

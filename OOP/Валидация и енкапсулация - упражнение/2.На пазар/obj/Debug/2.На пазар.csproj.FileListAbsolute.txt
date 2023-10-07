@@ -1,0 +1,8 @@
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\bin\Debug\2.На пазар.exe.config
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\bin\Debug\2.На пазар.exe
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\bin\Debug\2.На пазар.pdb
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\obj\Debug\2.На пазар.csproj.AssemblyReference.cache
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\obj\Debug\2.На пазар.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\obj\Debug\2.На пазар.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\obj\Debug\2.На пазар.exe
+F:\файлове\programi\Валидация и енкапсулация - упражнение\2.На пазар\obj\Debug\2.На пазар.pdb

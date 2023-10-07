@@ -1,0 +1,16 @@
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\Exam Preparation.exe
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\Exam Preparation.deps.json
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\Exam Preparation.runtimeconfig.json
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\Exam Preparation.runtimeconfig.dev.json
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\Exam Preparation.dll
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\ref\Exam Preparation.dll
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\bin\Debug\net5.0\Exam Preparation.pdb
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.csproj.AssemblyReference.cache
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.AssemblyInfoInputs.cache
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.AssemblyInfo.cs
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.dll
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\ref\Exam Preparation.dll
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.pdb
+F:\файлове\programi\While Loop - Exercise\Exam Preparation\obj\Debug\net5.0\Exam Preparation.genruntimeconfig.cache

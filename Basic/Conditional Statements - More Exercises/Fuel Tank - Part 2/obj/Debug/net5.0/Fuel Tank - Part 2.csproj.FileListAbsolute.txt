@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\Fuel Tank - Part 2.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\Fuel Tank - Part 2.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\Fuel Tank - Part 2.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\Fuel Tank - Part 2.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\Fuel Tank - Part 2.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\ref\Fuel Tank - Part 2.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\bin\Debug\net5.0\Fuel Tank - Part 2.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\ref\Fuel Tank - Part 2.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Fuel Tank - Part 2\obj\Debug\net5.0\Fuel Tank - Part 2.genruntimeconfig.cache

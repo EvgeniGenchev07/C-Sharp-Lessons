@@ -1,0 +1,8 @@
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\bin\Debug\_4.Unicode_Символи.exe.config
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\bin\Debug\_4.Unicode_Символи.exe
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\bin\Debug\_4.Unicode_Символи.pdb
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\obj\Debug\4. Unicode Символи.csproj.AssemblyReference.cache
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\obj\Debug\4. Unicode Символи.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\obj\Debug\4. Unicode Символи.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\obj\Debug\_4.Unicode_Символи.exe
+F:\файлове\programi\Работа със символни низове и текст\4. Unicode Символи\obj\Debug\_4.Unicode_Символи.pdb

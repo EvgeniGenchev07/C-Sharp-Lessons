@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acd109cc-fb15-4f55-b8be-c27e85917734": {
+      "ProjectGuid": "acd109cc-fb15-4f55-b8be-c27e85917734",
+      "DisplayName": "Back To The Past",
+      "ColorIndex": 0
+    },
+    "33ef7c03-59a0-45cc-9eab-9ef78ea5571f": {
+      "ProjectGuid": "33ef7c03-59a0-45cc-9eab-9ef78ea5571f",
+      "DisplayName": "Hospital",
+      "ColorIndex": 1
+    },
+    "ab10fd9d-ce13-41a8-b500-1afba6d1a1f8": {
+      "ProjectGuid": "ab10fd9d-ce13-41a8-b500-1afba6d1a1f8",
+      "DisplayName": "Logistics",
+      "ColorIndex": 2
+    },
+    "902d1652-34a0-4d72-b5a3-dba3811b8735": {
+      "ProjectGuid": "902d1652-34a0-4d72-b5a3-dba3811b8735",
+      "DisplayName": "Grades",
+      "ColorIndex": 3
+    },
+    "46162a81-b145-46b7-8c54-e082cf34cc7f": {
+      "ProjectGuid": "46162a81-b145-46b7-8c54-e082cf34cc7f",
+      "DisplayName": "Game Of Intervals",
+      "ColorIndex": 4
+    },
+    "47a0707f-9949-475b-8638-fa11c4843513": {
+      "ProjectGuid": "47a0707f-9949-475b-8638-fa11c4843513",
+      "DisplayName": "Bills",
+      "ColorIndex": 5
+    },
+    "1dec38ce-350d-479a-bd2d-99520fa36f37": {
+      "ProjectGuid": "1dec38ce-350d-479a-bd2d-99520fa36f37",
+      "DisplayName": "Football League",
+      "ColorIndex": 6
+    },
+    "29dc6896-6154-4626-b5ee-36728bb42886": {
+      "ProjectGuid": "29dc6896-6154-4626-b5ee-36728bb42886",
+      "DisplayName": "Equal Pairs",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

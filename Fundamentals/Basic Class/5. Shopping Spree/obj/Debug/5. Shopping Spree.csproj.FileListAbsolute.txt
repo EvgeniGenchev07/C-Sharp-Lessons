@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\5. Shopping Spree\bin\Debug\_5.Shopping_Spree.exe.config
+F:\файлове\programi\Basic Class\5. Shopping Spree\bin\Debug\_5.Shopping_Spree.exe
+F:\файлове\programi\Basic Class\5. Shopping Spree\bin\Debug\_5.Shopping_Spree.pdb
+F:\файлове\programi\Basic Class\5. Shopping Spree\obj\Debug\5. Shopping Spree.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\5. Shopping Spree\obj\Debug\5. Shopping Spree.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\5. Shopping Spree\obj\Debug\5. Shopping Spree.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\5. Shopping Spree\obj\Debug\_5.Shopping_Spree.exe
+F:\файлове\programi\Basic Class\5. Shopping Spree\obj\Debug\_5.Shopping_Spree.pdb

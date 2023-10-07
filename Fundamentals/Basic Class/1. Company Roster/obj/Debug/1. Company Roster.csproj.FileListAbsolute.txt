@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\1. Company Roster\bin\Debug\_1.Company_Roster.exe.config
+F:\файлове\programi\Basic Class\1. Company Roster\bin\Debug\_1.Company_Roster.exe
+F:\файлове\programi\Basic Class\1. Company Roster\bin\Debug\_1.Company_Roster.pdb
+F:\файлове\programi\Basic Class\1. Company Roster\obj\Debug\1. Company Roster.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\1. Company Roster\obj\Debug\1. Company Roster.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\1. Company Roster\obj\Debug\1. Company Roster.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\1. Company Roster\obj\Debug\_1.Company_Roster.exe
+F:\файлове\programi\Basic Class\1. Company Roster\obj\Debug\_1.Company_Roster.pdb

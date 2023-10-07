@@ -1,0 +1,16 @@
+F:\файлове\programi\Principles of OOP\1. Person\bin\Debug\_1.Person.exe.config
+F:\файлове\programi\Principles of OOP\1. Person\bin\Debug\_1.Person.exe
+F:\файлове\programi\Principles of OOP\1. Person\bin\Debug\_1.Person.pdb
+F:\файлове\programi\Principles of OOP\1. Person\obj\Debug\1. Person.csproj.AssemblyReference.cache
+F:\файлове\programi\Principles of OOP\1. Person\obj\Debug\1. Person.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Principles of OOP\1. Person\obj\Debug\1. Person.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Principles of OOP\1. Person\obj\Debug\_1.Person.exe
+F:\файлове\programi\Principles of OOP\1. Person\obj\Debug\_1.Person.pdb
+F:\files\programi\Principles of OOP\1. Person\bin\Debug\_1.Person.exe.config
+F:\files\programi\Principles of OOP\1. Person\bin\Debug\_1.Person.exe
+F:\files\programi\Principles of OOP\1. Person\bin\Debug\_1.Person.pdb
+F:\files\programi\Principles of OOP\1. Person\obj\Debug\1. Person.csproj.AssemblyReference.cache
+F:\files\programi\Principles of OOP\1. Person\obj\Debug\1. Person.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Principles of OOP\1. Person\obj\Debug\1. Person.csproj.CoreCompileInputs.cache
+F:\files\programi\Principles of OOP\1. Person\obj\Debug\_1.Person.exe
+F:\files\programi\Principles of OOP\1. Person\obj\Debug\_1.Person.pdb

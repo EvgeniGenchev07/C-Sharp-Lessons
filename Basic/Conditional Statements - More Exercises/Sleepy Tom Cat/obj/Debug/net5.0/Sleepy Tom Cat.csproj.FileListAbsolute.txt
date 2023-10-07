@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\Sleepy Tom Cat.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\Sleepy Tom Cat.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\Sleepy Tom Cat.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\Sleepy Tom Cat.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\Sleepy Tom Cat.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\ref\Sleepy Tom Cat.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\bin\Debug\net5.0\Sleepy Tom Cat.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\ref\Sleepy Tom Cat.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Sleepy Tom Cat\obj\Debug\net5.0\Sleepy Tom Cat.genruntimeconfig.cache

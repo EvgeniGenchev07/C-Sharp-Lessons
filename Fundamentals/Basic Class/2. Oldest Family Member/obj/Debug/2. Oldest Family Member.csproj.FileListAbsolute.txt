@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.exe.config
+F:\файлове\programi\Basic Class\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.exe
+F:\файлове\programi\Basic Class\2. Oldest Family Member\bin\Debug\_2.Oldest_Family_Member.pdb
+F:\файлове\programi\Basic Class\2. Oldest Family Member\obj\Debug\2. Oldest Family Member.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\2. Oldest Family Member\obj\Debug\2. Oldest Family Member.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\2. Oldest Family Member\obj\Debug\2. Oldest Family Member.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\2. Oldest Family Member\obj\Debug\_2.Oldest_Family_Member.exe
+F:\файлове\programi\Basic Class\2. Oldest Family Member\obj\Debug\_2.Oldest_Family_Member.pdb

@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\Firm.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\Firm.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\Firm.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\Firm.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\Firm.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\ref\Firm.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\bin\Debug\net5.0\Firm.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\ref\Firm.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Firm\obj\Debug\net5.0\Firm.genruntimeconfig.cache

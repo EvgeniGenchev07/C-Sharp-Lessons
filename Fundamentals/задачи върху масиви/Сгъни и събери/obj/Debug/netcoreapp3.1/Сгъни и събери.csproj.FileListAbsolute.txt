@@ -1,0 +1,14 @@
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\bin\Debug\netcoreapp3.1\Сгъни и събери.exe
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\bin\Debug\netcoreapp3.1\Сгъни и събери.deps.json
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\bin\Debug\netcoreapp3.1\Сгъни и събери.runtimeconfig.json
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\bin\Debug\netcoreapp3.1\Сгъни и събери.runtimeconfig.dev.json
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\bin\Debug\netcoreapp3.1\Сгъни и събери.dll
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\bin\Debug\netcoreapp3.1\Сгъни и събери.pdb
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.csproj.AssemblyReference.cache
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.AssemblyInfoInputs.cache
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.AssemblyInfo.cs
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.csproj.CoreCompileInputs.cache
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.dll
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.pdb
+F:\файлове\programi\задачи върху масиви\Сгъни и събери\obj\Debug\netcoreapp3.1\Сгъни и събери.genruntimeconfig.cache

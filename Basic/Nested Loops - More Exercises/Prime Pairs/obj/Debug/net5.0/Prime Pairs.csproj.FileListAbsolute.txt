@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\bin\Debug\net5.0\Prime Pairs.exe
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\bin\Debug\net5.0\Prime Pairs.deps.json
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\bin\Debug\net5.0\Prime Pairs.runtimeconfig.json
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\bin\Debug\net5.0\Prime Pairs.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\bin\Debug\net5.0\Prime Pairs.dll
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\bin\Debug\net5.0\Prime Pairs.pdb
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.dll
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\refint\Prime Pairs.dll
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.pdb
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\Prime Pairs.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - More Exercises\Prime Pairs\obj\Debug\net5.0\ref\Prime Pairs.dll

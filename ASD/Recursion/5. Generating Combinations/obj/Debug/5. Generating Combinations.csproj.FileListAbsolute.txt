@@ -1,0 +1,8 @@
+F:\файлове\programi\Recursion\5. Generating Combinations\bin\Debug\_5.Generating_Combinations.exe.config
+F:\файлове\programi\Recursion\5. Generating Combinations\bin\Debug\_5.Generating_Combinations.exe
+F:\файлове\programi\Recursion\5. Generating Combinations\bin\Debug\_5.Generating_Combinations.pdb
+F:\файлове\programi\Recursion\5. Generating Combinations\obj\Debug\5. Generating Combinations.csproj.AssemblyReference.cache
+F:\файлове\programi\Recursion\5. Generating Combinations\obj\Debug\5. Generating Combinations.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Recursion\5. Generating Combinations\obj\Debug\5. Generating Combinations.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Recursion\5. Generating Combinations\obj\Debug\_5.Generating_Combinations.exe
+F:\файлове\programi\Recursion\5. Generating Combinations\obj\Debug\_5.Generating_Combinations.pdb

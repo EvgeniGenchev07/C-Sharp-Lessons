@@ -1,0 +1,8 @@
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\bin\Debug\1.Strings.exe.config
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\bin\Debug\1.Strings.exe
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\bin\Debug\1.Strings.pdb
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\obj\Debug\1.Strings.csproj.AssemblyReference.cache
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\obj\Debug\1.Strings.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\obj\Debug\1.Strings.csproj.CoreCompileInputs.cache
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\obj\Debug\1.Strings.exe
+F:\файлове\programi\3.Работа със символни низове и текст\1.Strings\obj\Debug\1.Strings.pdb

@@ -1,0 +1,15 @@
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\bin\Debug\net7.0\1. Празна касова бележка.exe
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\bin\Debug\net7.0\1. Празна касова бележка.deps.json
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\bin\Debug\net7.0\1. Празна касова бележка.runtimeconfig.json
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\bin\Debug\net7.0\1. Празна касова бележка.dll
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\bin\Debug\net7.0\1. Празна касова бележка.pdb
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.csproj.AssemblyReference.cache
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.AssemblyInfoInputs.cache
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.AssemblyInfo.cs
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.dll
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\refint\1. Празна касова бележка.dll
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.pdb
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\1. Празна касова бележка.genruntimeconfig.cache
+F:\файлове\programi\Упражнения Mетоди\1. Празна касова бележка\obj\Debug\net7.0\ref\1. Празна касова бележка.dll

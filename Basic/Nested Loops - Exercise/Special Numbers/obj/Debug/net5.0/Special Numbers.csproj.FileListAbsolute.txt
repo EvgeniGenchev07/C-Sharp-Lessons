@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\bin\Debug\net5.0\Special Numbers.exe
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\bin\Debug\net5.0\Special Numbers.deps.json
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\bin\Debug\net5.0\Special Numbers.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\bin\Debug\net5.0\Special Numbers.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\bin\Debug\net5.0\Special Numbers.dll
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\bin\Debug\net5.0\Special Numbers.pdb
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.dll
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\refint\Special Numbers.dll
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.pdb
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\Special Numbers.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Exercise\Special Numbers\obj\Debug\net5.0\ref\Special Numbers.dll

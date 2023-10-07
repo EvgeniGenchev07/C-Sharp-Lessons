@@ -1,0 +1,8 @@
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\bin\Debug\_4.Generating_0_1_Vectors.exe.config
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\bin\Debug\_4.Generating_0_1_Vectors.exe
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\bin\Debug\_4.Generating_0_1_Vectors.pdb
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\obj\Debug\4. Generating 0_1 Vectors.csproj.AssemblyReference.cache
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\obj\Debug\4. Generating 0_1 Vectors.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\obj\Debug\4. Generating 0_1 Vectors.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\obj\Debug\_4.Generating_0_1_Vectors.exe
+F:\файлове\programi\Recursion\4. Generating 0_1 Vectors\obj\Debug\_4.Generating_0_1_Vectors.pdb

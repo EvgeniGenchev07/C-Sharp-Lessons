@@ -1,0 +1,16 @@
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\bin\Debug\net5.0\Stream Of Letters.exe
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\bin\Debug\net5.0\Stream Of Letters.deps.json
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\bin\Debug\net5.0\Stream Of Letters.runtimeconfig.json
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\bin\Debug\net5.0\Stream Of Letters.runtimeconfig.dev.json
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\bin\Debug\net5.0\Stream Of Letters.dll
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\bin\Debug\net5.0\Stream Of Letters.pdb
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.csproj.AssemblyReference.cache
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.AssemblyInfoInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.AssemblyInfo.cs
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.dll
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\refint\Stream Of Letters.dll
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.pdb
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\Stream Of Letters.genruntimeconfig.cache
+F:\файлове\programi\While-Loop - More Exercises\Stream Of Letters\obj\Debug\net5.0\ref\Stream Of Letters.dll

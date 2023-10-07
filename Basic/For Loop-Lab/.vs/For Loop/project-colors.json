@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e764727a-41ce-431b-8619-01a90872e2c3": {
+      "ProjectGuid": "e764727a-41ce-431b-8619-01a90872e2c3",
+      "DisplayName": "Numbers from 1 to 100",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

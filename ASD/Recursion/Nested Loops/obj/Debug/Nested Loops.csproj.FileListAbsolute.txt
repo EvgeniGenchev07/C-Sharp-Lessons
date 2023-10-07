@@ -1,0 +1,8 @@
+F:\files\programi\Recursion\Nested Loops\bin\Debug\Nested Loops.exe.config
+F:\files\programi\Recursion\Nested Loops\bin\Debug\Nested Loops.exe
+F:\files\programi\Recursion\Nested Loops\bin\Debug\Nested Loops.pdb
+F:\files\programi\Recursion\Nested Loops\obj\Debug\Nested Loops.csproj.AssemblyReference.cache
+F:\files\programi\Recursion\Nested Loops\obj\Debug\Nested Loops.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Recursion\Nested Loops\obj\Debug\Nested Loops.csproj.CoreCompileInputs.cache
+F:\files\programi\Recursion\Nested Loops\obj\Debug\Nested Loops.exe
+F:\files\programi\Recursion\Nested Loops\obj\Debug\Nested Loops.pdb

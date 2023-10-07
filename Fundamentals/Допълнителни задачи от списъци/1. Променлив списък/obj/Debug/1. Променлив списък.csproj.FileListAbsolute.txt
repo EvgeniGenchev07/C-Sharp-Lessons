@@ -1,0 +1,8 @@
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\bin\Debug\_1.Променлив_списък.exe.config
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\bin\Debug\_1.Променлив_списък.exe
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\bin\Debug\_1.Променлив_списък.pdb
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\obj\Debug\1. Променлив списък.csproj.AssemblyReference.cache
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\obj\Debug\1. Променлив списък.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\obj\Debug\1. Променлив списък.csproj.CoreCompileInputs.cache
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\obj\Debug\_1.Променлив_списък.exe
+F:\файлове\programi\2. Търсене на число\1. Променлив списък\obj\Debug\_1.Променлив_списък.pdb

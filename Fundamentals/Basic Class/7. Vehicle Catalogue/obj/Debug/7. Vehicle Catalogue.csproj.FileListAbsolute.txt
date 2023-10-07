@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\bin\Debug\_7.Vehicle_Catalogue.exe.config
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\bin\Debug\_7.Vehicle_Catalogue.exe
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\bin\Debug\_7.Vehicle_Catalogue.pdb
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\obj\Debug\7. Vehicle Catalogue.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\obj\Debug\7. Vehicle Catalogue.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\obj\Debug\7. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\obj\Debug\_7.Vehicle_Catalogue.exe
+F:\файлове\programi\Basic Class\7. Vehicle Catalogue\obj\Debug\_7.Vehicle_Catalogue.pdb

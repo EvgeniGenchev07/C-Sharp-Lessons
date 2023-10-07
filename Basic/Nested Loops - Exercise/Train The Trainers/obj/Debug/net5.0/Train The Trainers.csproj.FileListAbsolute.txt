@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\bin\Debug\net5.0\Train The Trainers.exe
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\bin\Debug\net5.0\Train The Trainers.deps.json
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\bin\Debug\net5.0\Train The Trainers.runtimeconfig.json
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\bin\Debug\net5.0\Train The Trainers.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\bin\Debug\net5.0\Train The Trainers.dll
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\bin\Debug\net5.0\Train The Trainers.pdb
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.dll
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\refint\Train The Trainers.dll
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.pdb
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\Train The Trainers.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - Exercise\Train The Trainers\obj\Debug\net5.0\ref\Train The Trainers.dll

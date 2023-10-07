@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\bin\Debug\net5.0\Unique PIN Codes.exe
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\bin\Debug\net5.0\Unique PIN Codes.deps.json
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\bin\Debug\net5.0\Unique PIN Codes.runtimeconfig.json
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\bin\Debug\net5.0\Unique PIN Codes.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\bin\Debug\net5.0\Unique PIN Codes.dll
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\bin\Debug\net5.0\Unique PIN Codes.pdb
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.dll
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\refint\Unique PIN Codes.dll
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.pdb
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\Unique PIN Codes.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - More Exercises\Unique PIN Codes\obj\Debug\net5.0\ref\Unique PIN Codes.dll

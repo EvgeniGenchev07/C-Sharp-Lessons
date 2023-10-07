@@ -1,0 +1,16 @@
+F:\файлове\programi\While-Loop - More Exercises\Average Number\bin\Debug\net5.0\Average Number.exe
+F:\файлове\programi\While-Loop - More Exercises\Average Number\bin\Debug\net5.0\Average Number.deps.json
+F:\файлове\programi\While-Loop - More Exercises\Average Number\bin\Debug\net5.0\Average Number.runtimeconfig.json
+F:\файлове\programi\While-Loop - More Exercises\Average Number\bin\Debug\net5.0\Average Number.runtimeconfig.dev.json
+F:\файлове\programi\While-Loop - More Exercises\Average Number\bin\Debug\net5.0\Average Number.dll
+F:\файлове\programi\While-Loop - More Exercises\Average Number\bin\Debug\net5.0\Average Number.pdb
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.csproj.AssemblyReference.cache
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.AssemblyInfoInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.AssemblyInfo.cs
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.dll
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\refint\Average Number.dll
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.pdb
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\Average Number.genruntimeconfig.cache
+F:\файлове\programi\While-Loop - More Exercises\Average Number\obj\Debug\net5.0\ref\Average Number.dll

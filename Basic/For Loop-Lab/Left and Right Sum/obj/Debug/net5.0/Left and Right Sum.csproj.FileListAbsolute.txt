@@ -1,0 +1,15 @@
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\Left and Right Sum.exe
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\Left and Right Sum.deps.json
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\Left and Right Sum.runtimeconfig.json
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\Left and Right Sum.runtimeconfig.dev.json
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\Left and Right Sum.dll
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\ref\Left and Right Sum.dll
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\bin\Debug\net5.0\Left and Right Sum.pdb
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.AssemblyInfoInputs.cache
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.AssemblyInfo.cs
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.dll
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\ref\Left and Right Sum.dll
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.pdb
+F:\файлове\programi\For Loop-Lab\Left and Right Sum\obj\Debug\net5.0\Left and Right Sum.genruntimeconfig.cache

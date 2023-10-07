@@ -1,0 +1,16 @@
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\bin\Debug\net5.0\The song of the wheels.exe
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\bin\Debug\net5.0\The song of the wheels.deps.json
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\bin\Debug\net5.0\The song of the wheels.runtimeconfig.json
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\bin\Debug\net5.0\The song of the wheels.runtimeconfig.dev.json
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\bin\Debug\net5.0\The song of the wheels.dll
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\bin\Debug\net5.0\The song of the wheels.pdb
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.csproj.AssemblyReference.cache
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.AssemblyInfoInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.AssemblyInfo.cs
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.dll
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\refint\The song of the wheels.dll
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.pdb
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\The song of the wheels.genruntimeconfig.cache
+F:\файлове\programi\Nested Loops - More Exercises\The song of the wheels\obj\Debug\net5.0\ref\The song of the wheels.dll

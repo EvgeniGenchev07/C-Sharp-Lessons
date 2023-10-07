@@ -1,0 +1,8 @@
+F:\файлове\programi\Операторът break – упражнения\Задача 1\bin\Debug\Задача 1.exe.config
+F:\файлове\programi\Операторът break – упражнения\Задача 1\bin\Debug\Задача 1.exe
+F:\файлове\programi\Операторът break – упражнения\Задача 1\bin\Debug\Задача 1.pdb
+F:\файлове\programi\Операторът break – упражнения\Задача 1\obj\Debug\Задача 1.csproj.AssemblyReference.cache
+F:\файлове\programi\Операторът break – упражнения\Задача 1\obj\Debug\Задача 1.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Операторът break – упражнения\Задача 1\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Операторът break – упражнения\Задача 1\obj\Debug\Задача 1.exe
+F:\файлове\programi\Операторът break – упражнения\Задача 1\obj\Debug\Задача 1.pdb

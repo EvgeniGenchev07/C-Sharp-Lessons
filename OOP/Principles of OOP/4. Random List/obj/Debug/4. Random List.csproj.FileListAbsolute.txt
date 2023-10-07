@@ -1,0 +1,8 @@
+F:\файлове\programi\Principles of OOP\4. Random List\bin\Debug\_4.Random_List.exe.config
+F:\файлове\programi\Principles of OOP\4. Random List\bin\Debug\_4.Random_List.exe
+F:\файлове\programi\Principles of OOP\4. Random List\bin\Debug\_4.Random_List.pdb
+F:\файлове\programi\Principles of OOP\4. Random List\obj\Debug\4. Random List.csproj.AssemblyReference.cache
+F:\файлове\programi\Principles of OOP\4. Random List\obj\Debug\4. Random List.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Principles of OOP\4. Random List\obj\Debug\4. Random List.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Principles of OOP\4. Random List\obj\Debug\_4.Random_List.exe
+F:\файлове\programi\Principles of OOP\4. Random List\obj\Debug\_4.Random_List.pdb

@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\Time + 15 Minutes.exe
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\Time + 15 Minutes.deps.json
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\Time + 15 Minutes.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\Time + 15 Minutes.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\Time + 15 Minutes.dll
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\ref\Time + 15 Minutes.dll
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\net5.0\Time + 15 Minutes.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.dll
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\ref\Time + 15 Minutes.dll
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.pdb
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.genruntimeconfig.cache
+F:\файлове\programi\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\net5.0\Time + 15 Minutes.csproj.AssemblyReference.cache

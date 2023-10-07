@@ -1,0 +1,14 @@
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.AssemblyInfoInputs.cache
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.AssemblyInfo.cs
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.csproj.CoreCompileInputs.cache
+F:\files\programi\ListImplementation\ListImplementation\bin\Debug\net7.0\ListImplementation.exe
+F:\files\programi\ListImplementation\ListImplementation\bin\Debug\net7.0\ListImplementation.deps.json
+F:\files\programi\ListImplementation\ListImplementation\bin\Debug\net7.0\ListImplementation.runtimeconfig.json
+F:\files\programi\ListImplementation\ListImplementation\bin\Debug\net7.0\ListImplementation.dll
+F:\files\programi\ListImplementation\ListImplementation\bin\Debug\net7.0\ListImplementation.pdb
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.dll
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\refint\ListImplementation.dll
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.pdb
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ListImplementation.genruntimeconfig.cache
+F:\files\programi\ListImplementation\ListImplementation\obj\Debug\net7.0\ref\ListImplementation.dll

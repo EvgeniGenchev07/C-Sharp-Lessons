@@ -1,0 +1,15 @@
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.exe
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.deps.json
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.runtimeconfig.json
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.dll
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.pdb
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.csproj.AssemblyReference.cache
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.AssemblyInfoInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.AssemblyInfo.cs
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.dll
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\refint\12. Cups and Bottles.dll
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.pdb
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.genruntimeconfig.cache
+F:\files\programi\Exercise  Stacks and Queues\12. Cups and Bottles\obj\Debug\net6.0\ref\12. Cups and Bottles.dll

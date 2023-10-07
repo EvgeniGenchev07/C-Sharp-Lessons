@@ -1,0 +1,8 @@
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\obj\Debug\2. Cars.csproj.AssemblyReference.cache
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\obj\Debug\2. Cars.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\obj\Debug\2. Cars.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\bin\Debug\_2.Cars.exe.config
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\bin\Debug\_2.Cars.exe
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\bin\Debug\_2.Cars.pdb
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\obj\Debug\_2.Cars.exe
+F:\файлове\programi\Interfaces and Abstraction\2. Cars\obj\Debug\_2.Cars.pdb

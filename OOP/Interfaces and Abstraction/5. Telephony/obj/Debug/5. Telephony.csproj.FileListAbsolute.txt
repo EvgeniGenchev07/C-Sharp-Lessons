@@ -1,0 +1,8 @@
+F:\files\programi\Interfaces and Abstraction\5. Telephony\bin\Debug\_5.Telephony.exe.config
+F:\files\programi\Interfaces and Abstraction\5. Telephony\bin\Debug\_5.Telephony.exe
+F:\files\programi\Interfaces and Abstraction\5. Telephony\bin\Debug\_5.Telephony.pdb
+F:\files\programi\Interfaces and Abstraction\5. Telephony\obj\Debug\5. Telephony.csproj.AssemblyReference.cache
+F:\files\programi\Interfaces and Abstraction\5. Telephony\obj\Debug\5. Telephony.csproj.SuggestedBindingRedirects.cache
+F:\files\programi\Interfaces and Abstraction\5. Telephony\obj\Debug\5. Telephony.csproj.CoreCompileInputs.cache
+F:\files\programi\Interfaces and Abstraction\5. Telephony\obj\Debug\_5.Telephony.exe
+F:\files\programi\Interfaces and Abstraction\5. Telephony\obj\Debug\_5.Telephony.pdb

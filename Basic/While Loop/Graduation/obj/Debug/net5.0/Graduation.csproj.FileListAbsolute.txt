@@ -1,0 +1,16 @@
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\Graduation.exe
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\Graduation.deps.json
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.json
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.dev.json
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\Graduation.dll
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\ref\Graduation.dll
+F:\файлове\programi\While Loop\Graduation\bin\Debug\net5.0\Graduation.pdb
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.csproj.AssemblyReference.cache
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfoInputs.cache
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfo.cs
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.dll
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\ref\Graduation.dll
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.pdb
+F:\файлове\programi\While Loop\Graduation\obj\Debug\net5.0\Graduation.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\bin\Debug\_2.Търсене_на_число.exe.config
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\bin\Debug\_2.Търсене_на_число.exe
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\bin\Debug\_2.Търсене_на_число.pdb
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\obj\Debug\2. Търсене на число.csproj.AssemblyReference.cache
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\obj\Debug\2. Търсене на число.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\obj\Debug\2. Търсене на число.csproj.CoreCompileInputs.cache
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\obj\Debug\_2.Търсене_на_число.exe
+F:\файлове\programi\2. Търсене на число\2. Търсене на число\obj\Debug\_2.Търсене_на_число.pdb

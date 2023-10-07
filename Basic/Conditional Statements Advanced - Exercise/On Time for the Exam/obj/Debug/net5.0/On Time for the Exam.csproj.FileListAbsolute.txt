@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\On Time for the Exam.exe
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\On Time for the Exam.deps.json
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\On Time for the Exam.runtimeconfig.json
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\On Time for the Exam.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\On Time for the Exam.dll
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\ref\On Time for the Exam.dll
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\net5.0\On Time for the Exam.pdb
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.dll
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\ref\On Time for the Exam.dll
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.pdb
+F:\файлове\programi\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\net5.0\On Time for the Exam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\файлове\programi\While-Loop - More Exercises\Report System\bin\Debug\net5.0\Report System.exe
+F:\файлове\programi\While-Loop - More Exercises\Report System\bin\Debug\net5.0\Report System.deps.json
+F:\файлове\programi\While-Loop - More Exercises\Report System\bin\Debug\net5.0\Report System.runtimeconfig.json
+F:\файлове\programi\While-Loop - More Exercises\Report System\bin\Debug\net5.0\Report System.runtimeconfig.dev.json
+F:\файлове\programi\While-Loop - More Exercises\Report System\bin\Debug\net5.0\Report System.dll
+F:\файлове\programi\While-Loop - More Exercises\Report System\bin\Debug\net5.0\Report System.pdb
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.csproj.AssemblyReference.cache
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.AssemblyInfoInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.AssemblyInfo.cs
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.csproj.CoreCompileInputs.cache
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.dll
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\refint\Report System.dll
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.pdb
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\Report System.genruntimeconfig.cache
+F:\файлове\programi\While-Loop - More Exercises\Report System\obj\Debug\net5.0\ref\Report System.dll

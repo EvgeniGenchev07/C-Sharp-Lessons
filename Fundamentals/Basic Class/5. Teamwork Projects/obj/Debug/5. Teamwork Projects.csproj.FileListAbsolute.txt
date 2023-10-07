@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\5. Teamwork Projects\bin\Debug\_5.Teamwork_Projects.exe.config
+F:\файлове\programi\Basic Class\5. Teamwork Projects\bin\Debug\_5.Teamwork_Projects.exe
+F:\файлове\programi\Basic Class\5. Teamwork Projects\bin\Debug\_5.Teamwork_Projects.pdb
+F:\файлове\programi\Basic Class\5. Teamwork Projects\obj\Debug\5. Teamwork Projects.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\5. Teamwork Projects\obj\Debug\5. Teamwork Projects.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\5. Teamwork Projects\obj\Debug\5. Teamwork Projects.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\5. Teamwork Projects\obj\Debug\_5.Teamwork_Projects.exe
+F:\файлове\programi\Basic Class\5. Teamwork Projects\obj\Debug\_5.Teamwork_Projects.pdb

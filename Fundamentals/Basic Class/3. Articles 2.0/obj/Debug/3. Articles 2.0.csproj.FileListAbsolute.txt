@@ -1,0 +1,8 @@
+F:\файлове\programi\Basic Class\3. Articles 2.0\bin\Debug\_3.Articles_2._0.exe.config
+F:\файлове\programi\Basic Class\3. Articles 2.0\bin\Debug\_3.Articles_2._0.exe
+F:\файлове\programi\Basic Class\3. Articles 2.0\bin\Debug\_3.Articles_2._0.pdb
+F:\файлове\programi\Basic Class\3. Articles 2.0\obj\Debug\3. Articles 2.0.csproj.AssemblyReference.cache
+F:\файлове\programi\Basic Class\3. Articles 2.0\obj\Debug\3. Articles 2.0.csproj.SuggestedBindingRedirects.cache
+F:\файлове\programi\Basic Class\3. Articles 2.0\obj\Debug\3. Articles 2.0.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Basic Class\3. Articles 2.0\obj\Debug\_3.Articles_2._0.exe
+F:\файлове\programi\Basic Class\3. Articles 2.0\obj\Debug\_3.Articles_2._0.pdb

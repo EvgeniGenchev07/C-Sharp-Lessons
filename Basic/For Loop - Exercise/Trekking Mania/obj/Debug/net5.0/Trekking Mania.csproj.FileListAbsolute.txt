@@ -1,0 +1,16 @@
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\Trekking Mania.exe
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\Trekking Mania.deps.json
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\Trekking Mania.runtimeconfig.json
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\Trekking Mania.runtimeconfig.dev.json
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\Trekking Mania.dll
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\ref\Trekking Mania.dll
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\bin\Debug\net5.0\Trekking Mania.pdb
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.csproj.AssemblyReference.cache
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.AssemblyInfoInputs.cache
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.AssemblyInfo.cs
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.csproj.CoreCompileInputs.cache
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.dll
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\ref\Trekking Mania.dll
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.pdb
+F:\файлове\programi\For Loop - Exercise\Trekking Mania\obj\Debug\net5.0\Trekking Mania.genruntimeconfig.cache

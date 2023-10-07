@@ -1,0 +1,16 @@
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\Pets.exe
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\Pets.deps.json
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\Pets.runtimeconfig.json
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\Pets.runtimeconfig.dev.json
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\Pets.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\ref\Pets.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\bin\Debug\net5.0\Pets.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.csproj.AssemblyReference.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.AssemblyInfoInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.AssemblyInfo.cs
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.csproj.CoreCompileInputs.cache
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\ref\Pets.dll
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.pdb
+F:\файлове\programi\Conditional Statements - More Exercises\Pets\obj\Debug\net5.0\Pets.genruntimeconfig.cache
