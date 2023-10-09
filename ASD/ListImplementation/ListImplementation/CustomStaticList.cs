@@ -148,7 +148,7 @@
             }
         }
 
-        public void ReSize()
+        void ReSize()
         {
             Capacity *= 2;
             var newBuffer = new T[Capacity];
