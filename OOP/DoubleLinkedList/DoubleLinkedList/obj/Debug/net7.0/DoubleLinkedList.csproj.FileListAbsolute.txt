@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.exe
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.deps.json
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.runtimeconfig.json
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.dll
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\bin\Debug\net7.0\DoubleLinkedList.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.AssemblyInfo.cs
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.dll
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\refint\DoubleLinkedList.dll
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\DoubleLinkedList.genruntimeconfig.cache
+F:\files\programs\C-Sharp-Lessons\OOP\DoubleLinkedList\DoubleLinkedList\obj\Debug\net7.0\ref\DoubleLinkedList.dll

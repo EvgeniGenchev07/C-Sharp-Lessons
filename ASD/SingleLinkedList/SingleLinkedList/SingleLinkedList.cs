@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,13 +12,13 @@ namespace SingleLinkedList
     {
         class Node<T>
         {
-            public T Value;
-            public Node<T> Next;
+            public T Value { get; set; }
+            public Node<T> Next { get; set; }
             public Node(T value)
             {
                 Value = value;
             }
-            public Node(T value, Node<T> next) 
+            public Node(T value, Node<T> next)
                 : this(value)
             {
                 Next = next;
@@ -35,20 +37,12 @@ namespace SingleLinkedList
         }
         public SingleLinkedList(IEnumerable<T> collection)
         {
-            foreach (var item in collection)
-            {
-                Add(item);
-            }
+            AddRange(collection);
         }
         public void Add(T value)
         {
             Node<T> newNode = new Node<T>(value);
             if (Count == 0) Head = Tail = newNode;
-            else if (Count == 1)
-            {
-                Tail = newNode;
-                Head.Next = Tail;
-            }
             else
             {
                 Tail.Next = newNode;
@@ -56,6 +50,15 @@ namespace SingleLinkedList
             }
             Count++;
         }
+
+        public void AddRange(IEnumerable<T> collection)
+        {
+            foreach (T item in collection)
+            {
+                Add(item);
+            }
+        }
+
         public void Remove(T value)
         {
             if (Count == 0) throw new IndexOutOfRangeException();
@@ -81,6 +84,19 @@ namespace SingleLinkedList
             }
             Count--;
         }
+
+        public void RemoveAt(int index)
+        {
+
+            if (index == 0) Head = Head.Next;
+            else
+            {
+                var previousNode = FindNodeAt(index);
+                previousNode.Next = previousNode.Next.Next;
+                if (previousNode.Next == null) Tail = previousNode;
+            }
+        }
+
         public void InsertAt(T value, int index)
         {
             if (Count < index) throw new IndexOutOfRangeException();
@@ -92,25 +108,59 @@ namespace SingleLinkedList
             }
             else
             {
-                Node<T> previousNode = Head;
-                for (int i = 1; i <= index - 1; i++)
-                {
-                    previousNode = previousNode.Next;
-                }
+                var previousNode = FindNodeAt(index);
                 newNode.Next = previousNode.Next;
                 previousNode.Next = newNode;
                 if (newNode.Next == null) Tail = newNode;
             }
             Count++;
         }
-        public void Print()
+
+        public bool Contains(T item)
         {
-            var node = Head;
-            while (node != null)
+            var currentNode = Head;
+            while (currentNode != null)
             {
-                Console.WriteLine(node.Value);
-                node = node.Next;
+                if (currentNode.Value.Equals(item)) return true;
+                currentNode = currentNode.Next;
             }
+            return false;
+        }
+
+        public void CopyTo(IEnumerable<T> collection)
+        {
+            foreach (var item in collection)
+            {
+                Add(item);
+            }
+        }
+
+        public void Clear()
+        {
+            Head = Tail = null;
+        }
+
+        public IEnumerable<T> Reverse()
+        {
+            var collection = new Collection<T>();
+            var currentNode = Head;
+            while (currentNode != null)
+            {
+                collection.Add(currentNode.Value);
+                currentNode = currentNode.Next;
+            }
+            return collection.AsEnumerable().Reverse();
+
+        }
+
+        Node<T> FindNodeAt(int index)
+        {
+            var previousNode = Head;
+            for (int i = 1; i < index; i++)
+            {
+                previousNode = previousNode.Next;
+            }
+            return previousNode;
         }
     }
 }
