@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.AssemblyInfo.cs
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\bin\Debug\net7.0\Stack and Queue.exe
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\bin\Debug\net7.0\Stack and Queue.deps.json
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\bin\Debug\net7.0\Stack and Queue.runtimeconfig.json
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\bin\Debug\net7.0\Stack and Queue.dll
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\bin\Debug\net7.0\Stack and Queue.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.dll
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\refint\Stack and Queue.dll
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\Stack and Queue.genruntimeconfig.cache
+F:\files\programs\C-Sharp-Lessons\OOP\Stack and Queue\StaticStack\obj\Debug\net7.0\ref\Stack and Queue.dll
