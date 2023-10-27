@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\DoubleLinkedList\\DoubleLinkedList\\DoubleLinkedList.csproj",
+      "projectUniqueName": "F:\\files\\programs\\C-Sharp\\ASD\\DoubleLinkedList\\DoubleLinkedList\\DoubleLinkedList.csproj",
       "projectName": "DoubleLinkedList",
-      "projectPath": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\DoubleLinkedList\\DoubleLinkedList\\DoubleLinkedList.csproj",
+      "projectPath": "F:\\files\\programs\\C-Sharp\\ASD\\DoubleLinkedList\\DoubleLinkedList\\DoubleLinkedList.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\DoubleLinkedList\\DoubleLinkedList\\obj\\",
+      "outputPath": "F:\\files\\programs\\C-Sharp\\ASD\\DoubleLinkedList\\DoubleLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

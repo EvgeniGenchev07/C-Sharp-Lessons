@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj": {}
+    "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj": {}
   },
   "projects": {
-    "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj": {
+    "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj",
+        "projectUniqueName": "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj",
         "projectName": "ListImplementation",
-        "projectPath": "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj",
+        "projectPath": "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\ListImplementation.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\ListImplementation\\ListImplementation\\obj\\",
+        "outputPath": "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

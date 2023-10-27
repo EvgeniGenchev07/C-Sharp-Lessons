@@ -9,3 +9,5 @@ a.Add(5);
 a.InsertAt(2, 1);
 a.InsertAt(3, 6);
 a.RemoveAt(0);
+a.Reverse();
+a.Print();

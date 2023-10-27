@@ -12,3 +12,17 @@ F:\files\programs\C-Sharp-Lessons\ASD\SingleLinkedList\SingleLinkedList\obj\Debu
 F:\files\programs\C-Sharp-Lessons\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.pdb
 F:\files\programs\C-Sharp-Lessons\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.genruntimeconfig.cache
 F:\files\programs\C-Sharp-Lessons\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\ref\SingleLinkedList.dll
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.exe
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.deps.json
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.runtimeconfig.json
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.dll
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.pdb
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.AssemblyInfo.cs
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.dll
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\refint\SingleLinkedList.dll
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.pdb
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.genruntimeconfig.cache
+F:\files\programs\C-Sharp\ASD\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\ref\SingleLinkedList.dll

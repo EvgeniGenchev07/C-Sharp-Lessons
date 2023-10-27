@@ -127,10 +127,11 @@ namespace SingleLinkedList
             return false;
         }
 
-        public void CopyTo(IEnumerable<T> collection)
+        public void CopyTo(IEnumerable<T> collection, int index)
         {
-            foreach (var item in collection)
-            {
+            for (int i = index; i < collection.Count(); i++)
+            { 
+                var item = collection.ElementAt(i);
                 Add(item);
             }
         }
@@ -138,9 +139,10 @@ namespace SingleLinkedList
         public void Clear()
         {
             Head = Tail = null;
+            Count = 0;
         }
 
-        public IEnumerable<T> Reverse()
+        public void Reverse()
         {
             var collection = new Collection<T>();
             var currentNode = Head;
@@ -149,8 +151,18 @@ namespace SingleLinkedList
                 collection.Add(currentNode.Value);
                 currentNode = currentNode.Next;
             }
-            return collection.AsEnumerable().Reverse();
+            Clear();
+            AddRange(collection.Reverse());
+        }
 
+        public void Print()
+        {
+            var current = Head;
+            while (current != null)
+            {
+                Console.WriteLine(current.Value);
+                current = current.Next;
+            }
         }
 
         Node<T> FindNodeAt(int index)

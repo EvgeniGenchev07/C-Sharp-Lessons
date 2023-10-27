@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -78,6 +79,7 @@ namespace DoubleLinkedList
         public void Clear()
         {
             Head = Tail = null;
+            Count = 0;
         }
 
         public void CopyTo(IEnumerable<T> values, int index)
@@ -89,7 +91,18 @@ namespace DoubleLinkedList
             }
         }
 
-
+        public void Reverse()
+        {
+            var collection = new Collection<T>();
+            var current = Tail;
+            while (current != null)
+            {
+                collection.Add(current.Value);
+                current = current.Before;
+            }
+            Clear();
+            AddRange(collection);
+        }
 
         public void Remove(T value)
         {
@@ -125,7 +138,7 @@ namespace DoubleLinkedList
 
         public void RemoveAt(int index)
         {
-            if (Count < index) throw new IndexOutOfRangeException();
+            if (Count <= index) throw new IndexOutOfRangeException();
             if (index == 0)
             {
                 Head = Head.Next;
@@ -133,11 +146,7 @@ namespace DoubleLinkedList
             }
             else
             {
-                Node<T> previousNode = Head;
-                for (int i = 1; i <= index - 1; i++)
-                {
-                    previousNode = previousNode.Next;
-                }
+                var previousNode = FindNodeAt(index);
                 previousNode.Next = previousNode.Next.Next;
                 if (previousNode.Next == null) Tail = previousNode;
                 else previousNode.Next.Before = previousNode;
@@ -158,11 +167,7 @@ namespace DoubleLinkedList
             }
             else
             {
-                Node<T> previousNode = Head;
-                for (int i = 1; i <= index - 1; i++)
-                {
-                    previousNode = previousNode.Next;
-                }
+                var previousNode = FindNodeAt(index);
                 newNode.Next = previousNode.Next;
                 if (newNode.Next == null) Tail = newNode;
                 else newNode.Next.Before = newNode;
@@ -189,6 +194,15 @@ namespace DoubleLinkedList
                 Console.WriteLine(node.Value);
                 node = node.Before;
             }
+        }
+        Node<T> FindNodeAt(int index)
+        {
+            var previousNode = Head;
+            for (int i = 1; i < index; i++)
+            {
+                previousNode = previousNode.Next;
+            }
+            return previousNode;
         }
     }
 }

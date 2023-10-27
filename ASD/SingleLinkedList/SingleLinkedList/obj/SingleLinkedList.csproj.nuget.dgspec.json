@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj": {}
+    "F:\\files\\programs\\C-Sharp\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj": {}
   },
   "projects": {
-    "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj": {
+    "F:\\files\\programs\\C-Sharp\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj",
+        "projectUniqueName": "F:\\files\\programs\\C-Sharp\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj",
         "projectName": "SingleLinkedList",
-        "projectPath": "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj",
+        "projectPath": "F:\\files\\programs\\C-Sharp\\ASD\\SingleLinkedList\\SingleLinkedList\\SingleLinkedList.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\files\\programs\\C-Sharp-Lessons\\ASD\\SingleLinkedList\\SingleLinkedList\\obj\\",
+        "outputPath": "F:\\files\\programs\\C-Sharp\\ASD\\SingleLinkedList\\SingleLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

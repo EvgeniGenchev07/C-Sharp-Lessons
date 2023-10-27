@@ -25,5 +25,6 @@ a.AddRange(new int[] { 10, });
 a.RemoveAt(0);
 Console.WriteLine(a.Contains(4));
 Console.WriteLine(a.Contains(10));
+a.Reverse();
 a.PrintReverse();
 a.Print();

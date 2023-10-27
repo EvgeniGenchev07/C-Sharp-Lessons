@@ -1,4 +1,6 @@
-﻿namespace ListImplementation
+﻿using System;
+
+namespace ListImplementation
 {
     internal class CustomStaticList<T>
     {
@@ -8,7 +10,7 @@
 
         public int Count { get; set; }
 
-        public int Capacity { get; private set; }
+        public int Capacity => buffer.Length;
 
         public T this[int index]
         {
@@ -27,19 +29,16 @@
         public CustomStaticList()
         {
             buffer = new T[minCapacity];
-            Capacity = minCapacity;
         }
 
         public CustomStaticList(int capacity)
         {
             buffer = new T[capacity];
-            Capacity = capacity;
         }
 
         public CustomStaticList(IEnumerable<T> collection)
         {
             buffer = new T[minCapacity];
-            Capacity = minCapacity;
             AddRange(collection);
         }
 
@@ -47,6 +46,17 @@
         {
             if (Count == Capacity) ReSize();
             buffer[Count] = item;
+            Count++;
+        }
+
+        public void InsertAt(T value, int index)
+        {
+            if (Count == Capacity) ReSize();
+            for (int i = Count; i > index; i--)
+            {
+                buffer[i] = buffer[i-1];
+            }
+            buffer[index] = value;
             Count++;
         }
 
@@ -81,7 +91,6 @@
         public void Clear()
         {
             buffer = new T[minCapacity];
-            Capacity = minCapacity;
             Count = 0;
         }
 
@@ -124,34 +133,33 @@
             buffer = newBuffer;
         }
 
-        public void CopyTo(T[] array)
+        public void CopyTo(IEnumerable<T> collection)
         {
-            for (int i = 0; i < Count; i++)
+            for (int i = 0; i < collection.Count(); i++)
             {
-                array[i] = buffer[i];
+                Add(collection.ElementAt(i));
             }
         }
 
-        public void CopyTo(T[] array, int arrayIndex)
+        public void CopyTo(IEnumerable<T> collection, int index)
         {
-            for (int i = arrayIndex, j = 0; i < Count + arrayIndex; i++, j++)
+            for (int i = index; i < collection.Count(); i++)
             {
-                array[i] = buffer[j];
+                Add(collection.ElementAt(i));
             }
         }
 
-        public void CopyTo(int index, T[] array, int arrayIndex, int count)
+        public void CopyTo(int index, IEnumerable<T> collection, int collectonIndex, int count)
         {
-            for (int i = arrayIndex, j = index; i < arrayIndex + count; i++, j++)
+            for (int i = collectonIndex; i < collection.Count()+collectonIndex; i++,index++)
             {
-                array[i] = buffer[j];
+                InsertAt(collection.ElementAt(i),index);
             }
         }
 
         void ReSize()
         {
-            Capacity *= 2;
-            var newBuffer = new T[Capacity];
+            var newBuffer = new T[Capacity*2];
             for (var i = 0; i < Count; i++)
             {
                 newBuffer[i] = buffer[i];
