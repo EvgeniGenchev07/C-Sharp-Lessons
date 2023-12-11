@@ -11,3 +11,6 @@ a.InsertAt(3, 6);
 a.RemoveAt(0);
 a.Reverse();
 a.Print();
+int[] ar = new int[]{ 1, 2, 34, 5, 6, 7, 8 };
+a.CopyTo(ar, 1);
+Console.WriteLine(string.Join(", ",ar));

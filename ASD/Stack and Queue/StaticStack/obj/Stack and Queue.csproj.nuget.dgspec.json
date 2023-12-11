@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\Stack and Queue\\StaticStack\\Stack and Queue.csproj": {}
+    "F:\\files\\programs\\C-Sharp\\ASD\\Stack and Queue\\StaticStack\\Stack and Queue.csproj": {}
   },
   "projects": {
-    "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\Stack and Queue\\StaticStack\\Stack and Queue.csproj": {
+    "F:\\files\\programs\\C-Sharp\\ASD\\Stack and Queue\\StaticStack\\Stack and Queue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\Stack and Queue\\StaticStack\\Stack and Queue.csproj",
+        "projectUniqueName": "F:\\files\\programs\\C-Sharp\\ASD\\Stack and Queue\\StaticStack\\Stack and Queue.csproj",
         "projectName": "Stack and Queue",
-        "projectPath": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\Stack and Queue\\StaticStack\\Stack and Queue.csproj",
+        "projectPath": "F:\\files\\programs\\C-Sharp\\ASD\\Stack and Queue\\StaticStack\\Stack and Queue.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\Stack and Queue\\StaticStack\\obj\\",
+        "outputPath": "F:\\files\\programs\\C-Sharp\\ASD\\Stack and Queue\\StaticStack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

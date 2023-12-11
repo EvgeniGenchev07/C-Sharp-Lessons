@@ -54,7 +54,7 @@ namespace ListImplementation
             if (Count == Capacity) ReSize();
             for (int i = Count; i > index; i--)
             {
-                buffer[i] = buffer[i-1];
+                buffer[i] = buffer[i - 1];
             }
             buffer[index] = value;
             Count++;
@@ -133,33 +133,33 @@ namespace ListImplementation
             buffer = newBuffer;
         }
 
-        public void CopyTo(IEnumerable<T> collection)
+        public void CopyTo(T[] collection)
         {
-            for (int i = 0; i < collection.Count(); i++)
+            for (int i = 0; i < Count; i++)
             {
-                Add(collection.ElementAt(i));
+                collection[i] = buffer[i];
             }
         }
 
-        public void CopyTo(IEnumerable<T> collection, int index)
+        public void CopyTo(T[] collection, int index)
         {
-            for (int i = index; i < collection.Count(); i++)
+            for (int i = index; i < Count + index; i++)
             {
-                Add(collection.ElementAt(i));
+                collection[i] = buffer[i];
             }
         }
 
-        public void CopyTo(int index, IEnumerable<T> collection, int collectonIndex, int count)
+        public void CopyTo(int index, T[] collection, int collectonIndex, int count)
         {
-            for (int i = collectonIndex; i < collection.Count()+collectonIndex; i++,index++)
+            for (int i = collectonIndex; i < count + collectonIndex; i++, index++)
             {
-                InsertAt(collection.ElementAt(i),index);
+                collection[i] = buffer[index];
             }
         }
 
         void ReSize()
         {
-            var newBuffer = new T[Capacity*2];
+            var newBuffer = new T[Capacity * 2];
             for (var i = 0; i < Count; i++)
             {
                 newBuffer[i] = buffer[i];

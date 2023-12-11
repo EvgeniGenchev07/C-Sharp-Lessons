@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\bin\Debug\net7.0\RepeatingSequence.exe
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\bin\Debug\net7.0\RepeatingSequence.deps.json
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\bin\Debug\net7.0\RepeatingSequence.runtimeconfig.json
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\bin\Debug\net7.0\RepeatingSequence.dll
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\bin\Debug\net7.0\RepeatingSequence.pdb
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.AssemblyInfo.cs
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.dll
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\refint\RepeatingSequence.dll
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.pdb
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\RepeatingSequence.genruntimeconfig.cache
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\RepeatingSequence\obj\Debug\net7.0\ref\RepeatingSequence.dll

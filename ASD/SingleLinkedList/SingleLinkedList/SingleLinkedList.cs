@@ -127,12 +127,13 @@ namespace SingleLinkedList
             return false;
         }
 
-        public void CopyTo(IEnumerable<T> collection, int index)
+        public void CopyTo(T[] collection, int index)
         {
-            for (int i = index; i < collection.Count(); i++)
-            { 
-                var item = collection.ElementAt(i);
-                Add(item);
+            Node<T> current = Head;
+            for (int i = index; i < Count+index; i++)
+            {
+                collection[i] = current.Value;
+                current = current.Next;
             }
         }
 

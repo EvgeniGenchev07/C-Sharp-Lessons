@@ -13,7 +13,7 @@ namespace DoubleLinkedList
         {
             public T Value;
             public Node<T> Next { get; set; }
-            public Node<T> Before { get; set; }
+            public Node<T> Previous { get; set; }
             public Node(T value)
             {
                 Value = value;
@@ -26,7 +26,7 @@ namespace DoubleLinkedList
             public Node(T value, Node<T> next, Node<T> before)
                 : this(value, next)
             {
-                Before = before;
+                Previous = before;
             }
         }
         Node<T> Head { get; set; }
@@ -51,7 +51,7 @@ namespace DoubleLinkedList
             else
             {
                 Tail.Next = newNode;
-                newNode.Before = Tail;
+                newNode.Previous = Tail;
                 Tail = newNode;
             }
             Count++;
@@ -82,12 +82,13 @@ namespace DoubleLinkedList
             Count = 0;
         }
 
-        public void CopyTo(IEnumerable<T> values, int index)
+        public void CopyTo(T[] values, int index)
         {
-            for (var i = index; i < values.Count(); i++)
+            Node<T> current = Head;
+            for (var i = index; i < Count+index; i++)
             {
-                var value = values.ElementAt(i);
-                Add(value);
+                values[i] = current.Value;
+                current = current.Next;
             }
         }
 
@@ -98,7 +99,7 @@ namespace DoubleLinkedList
             while (current != null)
             {
                 collection.Add(current.Value);
-                current = current.Before;
+                current = current.Previous;
             }
             Clear();
             AddRange(collection);
@@ -110,7 +111,7 @@ namespace DoubleLinkedList
             if (Head.Value.Equals(value))
             {
                 Head = Head.Next;
-                Head.Before = null;
+                Head.Previous = null;
             }
             else
             {
@@ -122,7 +123,7 @@ namespace DoubleLinkedList
                     {
                         previousNode.Next = currentNode.Next;
                         if (previousNode.Next == null) Tail = previousNode;
-                        else previousNode.Next.Before = previousNode;
+                        else previousNode.Next.Previous = previousNode;
                         break;
                     }
                     else
@@ -142,14 +143,14 @@ namespace DoubleLinkedList
             if (index == 0)
             {
                 Head = Head.Next;
-                Head.Before = null;
+                Head.Previous = null;
             }
             else
             {
                 var previousNode = FindNodeAt(index);
                 previousNode.Next = previousNode.Next.Next;
                 if (previousNode.Next == null) Tail = previousNode;
-                else previousNode.Next.Before = previousNode;
+                else previousNode.Next.Previous = previousNode;
             }
             Count--;
         }
@@ -161,18 +162,18 @@ namespace DoubleLinkedList
             if (index == 0)
             {
                 newNode.Next = Head;
-                Head.Before = newNode;
+                Head.Previous = newNode;
                 Head = newNode;
-                Head.Before = null;
+                Head.Previous = null;
             }
             else
             {
                 var previousNode = FindNodeAt(index);
                 newNode.Next = previousNode.Next;
                 if (newNode.Next == null) Tail = newNode;
-                else newNode.Next.Before = newNode;
+                else newNode.Next.Previous = newNode;
                 previousNode.Next = newNode;
-                newNode.Before = previousNode;
+                newNode.Previous = previousNode;
 
             }
             Count++;
@@ -192,7 +193,7 @@ namespace DoubleLinkedList
             while (node != null)
             {
                 Console.WriteLine(node.Value);
-                node = node.Before;
+                node = node.Previous;
             }
         }
         Node<T> FindNodeAt(int index)

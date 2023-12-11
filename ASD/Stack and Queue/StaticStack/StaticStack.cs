@@ -20,12 +20,12 @@ namespace StaticStack
         {
             buffer = new T[capacity];
         }
-        public StaticStack(T[] buffer)
+        public StaticStack(IEnumerable<T> collection)
         {
             buffer = new T[Min_Capacity];
-            for (int i = 0; i < buffer.Length; i++)
+            foreach (T item in collection)
             {
-                Push(buffer[i]);
+                Push(item);
             }
         }
 

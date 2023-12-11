@@ -46,6 +46,14 @@ namespace Stack_and_Queue
             Push(value);
         }
 
+        public DynamicStack(IEnumerable<T> items)
+        {
+            foreach (var item in items)
+            {
+                Push(item);
+            }
+        }
+
         public void Push(T value)
         {
             Tail = new Node<T>(value, Tail);
@@ -56,6 +64,7 @@ namespace Stack_and_Queue
         {
             var value = Tail.Value;
             Tail = Tail.Previous;
+            Count--;
             return value;
         }
 

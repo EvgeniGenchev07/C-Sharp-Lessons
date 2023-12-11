@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\bin\Debug\net7.0\IncreasingSequence.exe
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\bin\Debug\net7.0\IncreasingSequence.deps.json
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\bin\Debug\net7.0\IncreasingSequence.runtimeconfig.json
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\bin\Debug\net7.0\IncreasingSequence.dll
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\bin\Debug\net7.0\IncreasingSequence.pdb
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.AssemblyInfo.cs
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.dll
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\refint\IncreasingSequence.dll
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.pdb
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\IncreasingSequence.genruntimeconfig.cache
+F:\files\programs\C-Sharp\ASD\TheBiggestRow\TheBiggestRow\obj\Debug\net7.0\ref\IncreasingSequence.dll
