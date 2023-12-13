@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\bin\Debug\net7.0\Task2.exe
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\bin\Debug\net7.0\Task2.deps.json
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\bin\Debug\net7.0\Task2.dll
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\bin\Debug\net7.0\Task2.pdb
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.dll
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\refint\Task2.dll
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.pdb
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+F:\files\programs\C-Sharp-Lessons\ASD\Evgeni_Genchev_14_10e\Task2\obj\Debug\net7.0\ref\Task2.dll
