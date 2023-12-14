@@ -38,7 +38,7 @@ namespace Sort_Algorithms
             return arr1.CompareTo(arr2) > 0;
         }
 
-        static void Swap<T>(T[] array, int i, int j)
+        static void Swap<T>(this T[] array, int i, int j)
             where T : IComparable<T>
         {
             T value = array[j];
@@ -46,41 +46,39 @@ namespace Sort_Algorithms
             array[i] = value;
         }
 
-        public static void Quick<T>(this T[] array, bool flag = true, int length = 0, int j = 0, int i = 0)
+        public static void Quick<T>(this T[] array, int length = 0, int j = 0, int i = 0,int start=0)
             where T : IComparable<T>
         {
-            if (flag)
-            {
-                length = array.Length;
-            }
-
-            T pivot = array[length / 2];
+            T pivot = array[(length / 2)+start];
             if (LessThan(array[i], pivot))
             {
-                if (MoreThan(array[j], pivot)) Quick(array, j - 1, i + 1);
-                else Quick(array, j, i + 1);
+                if (MoreThan(array[j], pivot)) Quick(array, length, j - 1, i + 1,start);
+                else Quick(array,length, j, i + 1,start);
             }
             else
             {
-                if (MoreThan(array[j], pivot)) Quick(array, j - 1, i);
+                if (MoreThan(array[j], pivot)) Quick(array, length, j - 1, i,start);
                 else
                 {
-                    Swap(array, i, j);
-                    int pivotIndex = length / 2;
+                    array.Swap(i, j);
+                    int pivotIndex = (length / 2) + start;
                     if (i == pivotIndex && j == pivotIndex)
                     {
-                        if (pivotIndex <= 1) return;
+                        if (length <= 4)
+                        {
+                            return;
+                        }
                         else
                         {
-                            Quick(array, pivotIndex, 0);
-                            Quick(array, lenght, pivotIndex);
+                            Quick(array, pivotIndex - 1, pivotIndex-1, 0, 0);
+                            Quick(array, length - pivotIndex, length, pivotIndex+1, pivotIndex+1);
                         }
                     }
                     else if (i == pivotIndex || j == pivotIndex)
                     {
-                        Quick(array, length, 0);
+                        Quick(array, length, start+length-1, start,start);
                     }
-                    else Quick(array, j - 1, i + 1);
+                    else Quick(array, length, j - 1, i + 1,start);
                 }
             }
         }
