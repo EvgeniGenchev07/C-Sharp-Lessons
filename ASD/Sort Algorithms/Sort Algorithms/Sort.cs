@@ -1,4 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.Design.Serialization;
+using System.Reflection.PortableExecutable;
 using System.Runtime.CompilerServices;
 
 namespace Sort_Algorithms
@@ -137,8 +139,56 @@ namespace Sort_Algorithms
                 }
             }
         }
+        public static void QuickSortEnumarable<T>(this IEnumerable<T> array, int finish = 0, int j = 0, int i = 0, int start = 0, bool defined = false)
+            where T : IComparable<T>
+        {
+            if (!defined)
+            {
+                finish = j = array.Length - 1;
+                defined = true;
+            }
+            int pivotIndex = (finish + start) / 2;
+            T pivot = array[pivotIndex];
+            if (array[i].LessThan(pivot) && i < pivotIndex)
+            {
+                if (array[j].MoreThan(pivot) && j > pivotIndex) QuickSortEnumarable(array, finish, j - 1, i + 1, start, defined);
+                else QuickSortEnumarable(array, finish, j, i + 1, start, defined);
+            }
+            else
+            {
+                if (array[j].MoreThan(pivot) && j > pivotIndex) QuickSortEnumarable(array, finish, j - 1, i, start, defined);
+                else
+                {
+                    array.Swap(i, j);
+                    if (i == pivotIndex && j == pivotIndex || finish - start == 1)
+                    {
+                        if (finish - start + 1 <= 3) return;
+                        else
+                        {
+                            QuickSortEnumarable(array, pivotIndex - 1, pivotIndex - 1, start, start, defined);
+                            QuickSortEnumarable(array, finish, finish, pivotIndex + 1, pivotIndex + 1, defined);
+                        }
+                    }
+                    else
+                    {
+                        if (i == pivotIndex || j == pivotIndex)
+                        {
+                            QuickSortEnumarable(array, finish, finish, start, start, defined);
+                        }
+                        else QuickSortEnumarable(array, finish, j - 1, i + 1, start, defined);
+                    }
+                }
+            }
+        }
 
-        public static int BinarySearch<T>(this T[] array, T value, int finish = 0, int start = 0, bool defined = false)
+        public static int BinarySearch<T>(this T[] array, T value,bool recursive = false)
+            where T : IComparable<T>
+        {
+            if (recursive) return BinarySearch(array, value, array.Length, 0);
+            else return BinarySearch(array, value);
+        }
+
+        private static int BinarySearch<T>(T[] array, T value, int finish = 0, int start = 0, bool defined = false)
             where T : IComparable<T>
         {
             if (!defined)
@@ -150,15 +200,14 @@ namespace Sort_Algorithms
             T pivot = array[pivotIndex];
             if (pivot.CompareTo(value) == 0) return pivotIndex;
             else if (finish - start == 0) return -1;
-            else if (pivot.CompareTo(value) != 0)
+            else
             {
-                if (value.LessThan(pivot)) BinarySearch(array, value, pivotIndex - 1, start, defined);
-                else BinarySearch(array, value, finish, pivotIndex + 1, defined);
+                if (value.LessThan(pivot)) return BinarySearch(array, value, pivotIndex - 1, start, defined);
+                else return BinarySearch(array, value, finish, pivotIndex + 1, defined);
             }
-            return -1;
         }
 
-        public static int BinarySearch<T>(this T[] array, T value)
+        private static int BinarySearch<T>(T[] array, T value)
             where T : IComparable<T>
         {
             int finish = array.Length - 1;
@@ -175,6 +224,34 @@ namespace Sort_Algorithms
                 }
             }
             return -1;
+        }
+
+        public static void BucketSort(this int[] array)
+        {
+            int n = array.Length;
+            int max = array.Max()+1;
+            Func<int,int> formula =arr =>Math.Abs(arr * n / max);
+            List<int>[] list = new List<int>[n];
+            for (int i = 0; i < n; i++)
+            {
+                int gap = formula(array[i]);
+                if (list[gap] is null) list[gap] = new List<int>() { array[i] };
+                else list[gap].Add(array[i]);
+            }
+            for (int i = 0; i < n; i++)
+            {
+                if (list[i] != null) list[i].Sort();
+            }
+            int index = 0;
+            for (int i = 0; i < n; i++)
+            {
+                if (list[i] == null) continue;
+                for (int j = 0; j < list[i].Count; j++)
+                {
+                    array[index] = list[i][j];
+                    index++;
+                }
+            }
         }
 
         static bool LessThan<T>(this T arr1, T arr2)
