@@ -3,12 +3,12 @@
 public class ParkingSpot
 {
     private double price;
-    public List<ParkingInterval> ParkingIntervals {  get; set; }
-    public int Id { get; set; }
+    public List<ParkingInterval> ParkingIntervals {  get; private set; }
+    public int Id { get; private set; }
 
     public bool Occupied { get; set; }
 
-    public string Type { get; set; }
+    public string Type { get; private set; }
 
     public double Price
     {

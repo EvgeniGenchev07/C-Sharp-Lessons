@@ -1,14 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-public class ParkingInterval
+public struct ParkingInterval
 {
     private int hoursParked;
     private string registrationPlate;
-
-    public ParkingSpot ParkingSpot { get; set; }
-
 
     public string RegistrationPlate
     {
@@ -24,8 +18,6 @@ public class ParkingInterval
             registrationPlate = value;
         }
     }
-
-
     public int HoursParked
     {
         get
@@ -37,25 +29,5 @@ public class ParkingInterval
             if (value <= 0) throw new ArgumentException("Hours parked can’t be zero or negative!");
             hoursParked = value;
         }
-    }
-
-    public ParkingInterval(ParkingSpot parkingSpot, string registrationPlate, int hoursParked)
-    {
-        ParkingSpot = parkingSpot;
-        RegistrationPlate = registrationPlate;
-        HoursParked = hoursParked;
-    }
-
-    public double Revenue()
-    {
-        if (ParkingSpot.Type == "subscription") return 0;
-        return ParkingSpot.Price * HoursParked;
-    }
-    public override string ToString()
-    {
-        return $@"> ParkingSpot #{ParkingSpot.Id}
-> RegistrationPlate: {RegistrationPlate}
-> HoursParked: {HoursParked} hours
-> Revenue: {Revenue()} BGN";
     }
 }

@@ -7,7 +7,7 @@ public class ParkingInterval
     private int hoursParked;
     private string registrationPlate;
 
-    public ParkingSpot ParkingSpot { get; set; }
+    public ParkingSpot ParkingSpot { get; private set; }
 
 
     public string RegistrationPlate
