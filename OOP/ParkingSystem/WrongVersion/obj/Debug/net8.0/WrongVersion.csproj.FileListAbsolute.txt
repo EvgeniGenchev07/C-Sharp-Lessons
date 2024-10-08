@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\bin\Debug\net8.0\WrongVersion.exe
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\bin\Debug\net8.0\WrongVersion.deps.json
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\bin\Debug\net8.0\WrongVersion.runtimeconfig.json
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\bin\Debug\net8.0\WrongVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\bin\Debug\net8.0\WrongVersion.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.AssemblyInfo.cs
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\refint\WrongVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\WrongVersion.genruntimeconfig.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\WrongVersion\obj\Debug\net8.0\ref\WrongVersion.dll

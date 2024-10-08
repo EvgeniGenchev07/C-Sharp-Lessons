@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\files\\programs\\C-Sharp\\ASD\\Sort Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4BD0A4-8BCA-460F-8896-5465E616319C}|Sort Algorithms\\Sort Algorithms.csproj|f:\\files\\programs\\c-sharp\\asd\\sort algorithms\\sort algorithms\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4BD0A4-8BCA-460F-8896-5465E616319C}|Sort Algorithms\\Sort Algorithms.csproj|solutionrelative:sort algorithms\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4BD0A4-8BCA-460F-8896-5465E616319C}|Sort Algorithms\\Sort Algorithms.csproj|f:\\files\\programs\\c-sharp\\asd\\sort algorithms\\sort algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4BD0A4-8BCA-460F-8896-5465E616319C}|Sort Algorithms\\Sort Algorithms.csproj|solutionrelative:sort algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp\\ASD\\Sort Algorithms\\Sort Algorithms\\Sort.cs",
+              "RelativeDocumentMoniker": "Sort Algorithms\\Sort.cs",
+              "ToolTip": "F:\\files\\programs\\C-Sharp\\ASD\\Sort Algorithms\\Sort Algorithms\\Sort.cs",
+              "RelativeToolTip": "Sort Algorithms\\Sort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T18:41:14.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp\\ASD\\Sort Algorithms\\Sort Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Sort Algorithms\\Program.cs",
+              "ToolTip": "F:\\files\\programs\\C-Sharp\\ASD\\Sort Algorithms\\Sort Algorithms\\Program.cs",
+              "RelativeToolTip": "Sort Algorithms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T18:41:14.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

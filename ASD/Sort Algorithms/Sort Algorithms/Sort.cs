@@ -139,47 +139,47 @@ namespace Sort_Algorithms
                 }
             }
         }
-        public static void QuickSortEnumarable<T>(this IEnumerable<T> array, int finish = 0, int j = 0, int i = 0, int start = 0, bool defined = false)
-            where T : IComparable<T>
-        {
-            if (!defined)
-            {
-                finish = j = array.Length - 1;
-                defined = true;
-            }
-            int pivotIndex = (finish + start) / 2;
-            T pivot = array[pivotIndex];
-            if (array[i].LessThan(pivot) && i < pivotIndex)
-            {
-                if (array[j].MoreThan(pivot) && j > pivotIndex) QuickSortEnumarable(array, finish, j - 1, i + 1, start, defined);
-                else QuickSortEnumarable(array, finish, j, i + 1, start, defined);
-            }
-            else
-            {
-                if (array[j].MoreThan(pivot) && j > pivotIndex) QuickSortEnumarable(array, finish, j - 1, i, start, defined);
-                else
-                {
-                    array.Swap(i, j);
-                    if (i == pivotIndex && j == pivotIndex || finish - start == 1)
-                    {
-                        if (finish - start + 1 <= 3) return;
-                        else
-                        {
-                            QuickSortEnumarable(array, pivotIndex - 1, pivotIndex - 1, start, start, defined);
-                            QuickSortEnumarable(array, finish, finish, pivotIndex + 1, pivotIndex + 1, defined);
-                        }
-                    }
-                    else
-                    {
-                        if (i == pivotIndex || j == pivotIndex)
-                        {
-                            QuickSortEnumarable(array, finish, finish, start, start, defined);
-                        }
-                        else QuickSortEnumarable(array, finish, j - 1, i + 1, start, defined);
-                    }
-                }
-            }
-        }
+        //public static void QuickSortEnumarable<T>(this IEnumerable<T> array, int finish = 0, int j = 0, int i = 0, int start = 0, bool defined = false)
+        //    where T : IComparable<T>
+        //{
+        //    if (!defined)
+        //    {
+        //        finish = j = array.Length - 1;
+        //        defined = true;
+        //    }
+        //    int pivotIndex = (finish + start) / 2;
+        //    T pivot = array[pivotIndex];
+        //    if (array[i].LessThan(pivot) && i < pivotIndex)
+        //    {
+        //        if (array[j].MoreThan(pivot) && j > pivotIndex) QuickSortEnumarable(array, finish, j - 1, i + 1, start, defined);
+        //        else QuickSortEnumarable(array, finish, j, i + 1, start, defined);
+        //    }
+        //    else
+        //    {
+        //        if (array[j].MoreThan(pivot) && j > pivotIndex) QuickSortEnumarable(array, finish, j - 1, i, start, defined);
+        //        else
+        //        {
+        //            array.Swap(i, j);
+        //            if (i == pivotIndex && j == pivotIndex || finish - start == 1)
+        //            {
+        //                if (finish - start + 1 <= 3) return;
+        //                else
+        //                {
+        //                    QuickSortEnumarable(array, pivotIndex - 1, pivotIndex - 1, start, start, defined);
+        //                    QuickSortEnumarable(array, finish, finish, pivotIndex + 1, pivotIndex + 1, defined);
+        //                }
+        //            }
+        //            else
+        //            {
+        //                if (i == pivotIndex || j == pivotIndex)
+        //                {
+        //                    QuickSortEnumarable(array, finish, finish, start, start, defined);
+        //                }
+        //                else QuickSortEnumarable(array, finish, j - 1, i + 1, start, defined);
+        //            }
+        //        }
+        //    }
+        //}
 
         public static int BinarySearch<T>(this T[] array, T value,bool recursive = false)
             where T : IComparable<T>

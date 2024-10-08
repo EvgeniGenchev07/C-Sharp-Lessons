@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\bin\Debug\net8.0\BetterVersion.exe
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\bin\Debug\net8.0\BetterVersion.deps.json
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\bin\Debug\net8.0\BetterVersion.runtimeconfig.json
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\bin\Debug\net8.0\BetterVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\bin\Debug\net8.0\BetterVersion.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.AssemblyInfo.cs
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\refint\BetterVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\BetterVersion.genruntimeconfig.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\BetterVersion\obj\Debug\net8.0\ref\BetterVersion.dll
