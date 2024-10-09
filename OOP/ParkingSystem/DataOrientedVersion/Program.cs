@@ -1,13 +1,17 @@
 ﻿
+using System;
+using System.ComponentModel.Design;
+
 Dictionary<int, int> idPosition = new Dictionary<int, int>();
 int capacity = 4;
-ParkingInterval[][] parkingIntervals = new ParkingInterval[capacity][];
+ParkingInterval[][] ParkingIntervals = new ParkingInterval[capacity][];
 double[] Price = new double[capacity];
 bool[] Occupied = new bool[capacity];
+string[] Registrations = new string[capacity];
 char[] Type = new char[capacity];
 
 bool isRunning = true;
-int index = 1;
+int index = 0;
 while (isRunning)
 {
     string[] lineArgs = Console.ReadLine().Split(":");
@@ -32,20 +36,55 @@ while (isRunning)
                     }
                     else
                     {
-                        if (index > capacity) Allocating();
+                        if (index > capacity)
+                        {
+                            capacity *= 2;
+                            Allocate(Price,capacity);
+                            Allocate(Type,capacity);
+                            Allocate(Registrations,capacity);
+                            Allocate(Occupied,capacity);
+                            Allocate(ParkingIntervals,capacity);
+                        }
                         idPosition.Add(id, index);
                         Price[index] = price;
                         Occupied[index] = occupied;
                         Type[index] = type;
+                        ParkingIntervals[index] = new ParkingInterval[capacity];
                         returnLine = $"Parking spot {id} was successfully registered in the system!";
                     }
                     Console.WriteLine(returnLine);
                 }
                 break;
             case "ParkVehicle":
-
-                Console.WriteLine(ParkingController.ParkVehicle(int.Parse(lineArgs[1]),
-                    lineArgs[2], int.Parse(lineArgs[3]), lineArgs[4]));
+                {
+                    string returnLine = null;
+                    int id = int.Parse(lineArgs[1]);
+                    string plate = lineArgs[2];
+                    int hours = int.Parse(lineArgs[3]);
+                    char type = lineArgs[4][0];
+                    if (idPosition.ContainsKey(id))
+                    {
+                        int pos = idPosition[id];
+                        if (Type[pos] != type ||
+                        Occupied[pos] ||
+                        (Type[pos] == 's'
+                        && Registrations[pos] == plate)) returnLine =
+                                $"Vehicle {plate} can't park at {id}.";
+                        else
+                        {
+                            if (ParkingIntervals[pos].Length < ParkingIntervals[pos].Count())
+                            {
+                                Allocate(ParkingIntervals[pos], ParkingIntervals.Length * 2);
+                            }
+                            ParkingInterval parkingInterval = new ParkingInterval();
+                            parkingInterval.HoursParked = hours;
+                            parkingInterval.RegistrationPlate = plate;
+                            ParkingIntervals[pos][ParkingIntervals[pos].Length-1] = parkingInterval;
+                            returnLine = $"Vehicle {plate} parked at {id} for {hours} hours.";
+                        }
+                    }
+                    else returnLine = $"Parking spot {id} not found!";
+                }
                 break;
             case "FreeParkingSpot":
                 {
@@ -99,11 +138,11 @@ while (isRunning)
                     {
                         int pos = idPosition[id];
                         double price = Price[pos];
-                        for (int i = 0; i < parkingIntervals[pos].Length; i++)
+                        for (int i = 0; i < ParkingIntervals[pos].Length; i++)
                         {
-                            if (parkingIntervals[pos][i].RegistrationPlate == plate)
+                            if (ParkingIntervals[pos][i].RegistrationPlate == plate)
                             {
-                                int hours = parkingIntervals[pos][i].HoursParked;
+                                int hours = ParkingIntervals[pos][i].HoursParked;
                                 Console.WriteLine($@"> ParkingSpot #{id}
 > RegistrationPlate: {plate}
 > HoursParked: {hours} hours
@@ -122,9 +161,9 @@ while (isRunning)
                         price = Price[i];
                         if (Type[i] != 's')
                         {
-                            for (int j = 0; j < parkingIntervals[i].Length; j++)
+                            for (int j = 0; j < ParkingIntervals[i].Length; j++)
                             {
-                                sum += parkingIntervals[i][j].HoursParked * price;
+                                sum += ParkingIntervals[i][j].HoursParked * price;
                             }
                         }
                     }
@@ -140,20 +179,14 @@ while (isRunning)
     {
         Console.WriteLine(ex.Message);
     }
-
 }
-
-static string ParkVehicle(int id, string registration, int hoursParked, string type)
+static T[] Allocate<T>(T[] buffer, int capacity)
 {
-    ParkingSpot parkingSpot = parkingSpots.FirstOrDefault(s => s.Id == id);
-    if (parkingSpot == null) return $"Parking spot {id} not found!";
-    if (parkingSpot.Type != type ||
-        parkingSpot.Occupied ||
-        (parkingSpot.Type == "subscription"
-        && ((parkingSpot as SubscriptionParkingSpot).RegistrationPlate == registration))) return
-                $"Vehicle {registration} can't park at {id}.";
-    parkingSpot.ParkingIntervals.Add(new ParkingInterval(parkingSpot, registration, hoursParked));
-    parkingSpot.Occupied = true;
-    return $"Vehicle {registration} parked at {id} for {hoursParked} hours.";
-
+    T[] newBuffer = new T[capacity];
+    int length = buffer.Length;
+    for (var i = 0; i < length; i++)
+    {
+        newBuffer[i] = buffer[i];
+    }
+    return newBuffer;
 }

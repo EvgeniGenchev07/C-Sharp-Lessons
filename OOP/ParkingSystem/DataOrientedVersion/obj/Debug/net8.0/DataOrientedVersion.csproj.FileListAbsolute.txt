@@ -1,0 +1,14 @@
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\bin\Debug\net8.0\DataOrientedVersion.exe
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\bin\Debug\net8.0\DataOrientedVersion.deps.json
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\bin\Debug\net8.0\DataOrientedVersion.runtimeconfig.json
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\bin\Debug\net8.0\DataOrientedVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\bin\Debug\net8.0\DataOrientedVersion.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.GeneratedMSBuildEditorConfig.editorconfig
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.AssemblyInfoInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.AssemblyInfo.cs
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.csproj.CoreCompileInputs.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\refint\DataOrientedVersion.dll
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.pdb
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\DataOrientedVersion.genruntimeconfig.cache
+F:\files\programs\C-Sharp-Lessons\OOP\ParkingSystem\DataOrientedVersion\obj\Debug\net8.0\ref\DataOrientedVersion.dll

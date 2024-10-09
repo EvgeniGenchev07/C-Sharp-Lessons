@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataOrientedVersion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e31defe1e345efb6b9f20ad750cc7fccdfb4fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataOrientedVersion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataOrientedVersion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
