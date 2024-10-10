@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\dataorientedversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|solutionrelative:dataorientedversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\dataorientedversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|solutionrelative:dataorientedversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\wrongversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\wrongversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongVersion.csproj",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\WrongVersion.csproj",
+              "RelativeDocumentMoniker": "WrongVersion\\WrongVersion.csproj",
+              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\WrongVersion.csproj",
+              "RelativeToolTip": "WrongVersion\\WrongVersion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T18:37:30.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingInterval.cs",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\ParkingInterval.cs",
+              "RelativeDocumentMoniker": "DataOrientedVersion\\ParkingInterval.cs",
+              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\ParkingInterval.cs",
+              "RelativeToolTip": "DataOrientedVersion\\ParkingInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:36:00.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\Program.cs",
+              "RelativeDocumentMoniker": "DataOrientedVersion\\Program.cs",
+              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\Program.cs",
+              "RelativeToolTip": "DataOrientedVersion\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:24:10.324Z",
+              "EditorCaption": ""
             }
           ]
         }

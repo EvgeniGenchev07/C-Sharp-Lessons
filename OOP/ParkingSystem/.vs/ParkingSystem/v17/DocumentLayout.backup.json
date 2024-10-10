@@ -7,70 +7,12 @@
       "RelativeMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|solutionrelative:dataorientedversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\CustomStaticList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\dataorientedversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A90AF8B0-5610-4EC4-BB5E-22F7D78DAC44}|DataOrientedVersion\\DataOrientedVersion.csproj|solutionrelative:dataorientedversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\betterversion\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|solutionrelative:betterversion\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\betterversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|solutionrelative:betterversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\betterversion\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|solutionrelative:betterversion\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\betterversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|solutionrelative:betterversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\betterversion\\subscriptionparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|solutionrelative:betterversion\\subscriptionparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\subscriptionparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\subscriptionparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\betterversion\\betterversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5C982D5-B301-4E0B-A919-AA3DE38AD150}|BetterVersion\\BetterVersion.csproj|solutionrelative:betterversion\\betterversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\wrongversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\wrongversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\parkinginterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\carparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\carparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|f:\\files\\programs\\c-sharp-lessons\\oop\\parkingsystem\\wrongversion\\busparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE16BC-6D71-4FED-B119-49A3ACE09B76}|WrongVersion\\WrongVersion.csproj|solutionrelative:wrongversion\\busparkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\\u0418\u0437\u043F\u0438\u0442 \u041C\u043E\u0434\u0443\u043B 5, 23.10.2022\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,152 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomStaticList.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\CustomStaticList.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\CustomStaticList.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\CustomStaticList.cs",
-              "RelativeToolTip": "..\\..\\..\\C-Sharp\\ASD\\ListImplementation\\ListImplementation\\CustomStaticList.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T08:02:22.083Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ParkingInterval.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\ParkingInterval.cs",
-              "RelativeDocumentMoniker": "DataOrientedVersion\\ParkingInterval.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\ParkingInterval.cs",
-              "RelativeToolTip": "DataOrientedVersion\\ParkingInterval.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:30:49.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ParkingSpot.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\ParkingSpot.cs",
-              "RelativeDocumentMoniker": "BetterVersion\\ParkingSpot.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\ParkingSpot.cs",
-              "RelativeToolTip": "BetterVersion\\ParkingSpot.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:09:05.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\Program.cs",
-              "RelativeDocumentMoniker": "BetterVersion\\Program.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\Program.cs",
-              "RelativeToolTip": "BetterVersion\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:07:47.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ParkingSpot.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\ParkingSpot.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\ParkingSpot.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\ParkingSpot.cs",
-              "RelativeToolTip": "WrongVersion\\ParkingSpot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:13:18.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ParkingInterval.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\ParkingInterval.cs",
-              "RelativeDocumentMoniker": "BetterVersion\\ParkingInterval.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\ParkingInterval.cs",
-              "RelativeToolTip": "BetterVersion\\ParkingInterval.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:10:18.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\Program.cs",
-              "RelativeDocumentMoniker": "DataOrientedVersion\\Program.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\Program.cs",
-              "RelativeToolTip": "DataOrientedVersion\\Program.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAWwKMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:46:10.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ParkingController.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\ParkingController.cs",
-              "RelativeDocumentMoniker": "BetterVersion\\ParkingController.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\ParkingController.cs",
-              "RelativeToolTip": "BetterVersion\\ParkingController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAwEwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:09:10.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\Program.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\Program.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\Program.cs",
-              "RelativeToolTip": "WrongVersion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:11:49.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BetterVersion.csproj",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\BetterVersion.csproj",
-              "RelativeDocumentMoniker": "BetterVersion\\BetterVersion.csproj",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\BetterVersion.csproj",
-              "RelativeToolTip": "BetterVersion\\BetterVersion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-08T07:31:12.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SubscriptionParkingSpot.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\SubscriptionParkingSpot.cs",
-              "RelativeDocumentMoniker": "BetterVersion\\SubscriptionParkingSpot.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\BetterVersion\\SubscriptionParkingSpot.cs",
-              "RelativeToolTip": "BetterVersion\\SubscriptionParkingSpot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:32:17.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "WrongVersion.csproj",
               "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\WrongVersion.csproj",
               "RelativeDocumentMoniker": "WrongVersion\\WrongVersion.csproj",
@@ -233,77 +38,33 @@
               "RelativeToolTip": "WrongVersion\\WrongVersion.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-07T20:10:00.348Z"
+              "WhenOpened": "2024-10-09T18:37:30.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SubscriptionParkingSpot.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\SubscriptionParkingSpot.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\SubscriptionParkingSpot.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\SubscriptionParkingSpot.cs",
-              "RelativeToolTip": "WrongVersion\\SubscriptionParkingSpot.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:13:16.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ParkingController.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\ParkingController.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\ParkingController.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\ParkingController.cs",
-              "RelativeToolTip": "WrongVersion\\ParkingController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:14:35.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "ParkingInterval.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\ParkingInterval.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\ParkingInterval.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\ParkingInterval.cs",
-              "RelativeToolTip": "WrongVersion\\ParkingInterval.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAADAAAABjAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\ParkingInterval.cs",
+              "RelativeDocumentMoniker": "DataOrientedVersion\\ParkingInterval.cs",
+              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\ParkingInterval.cs",
+              "RelativeToolTip": "DataOrientedVersion\\ParkingInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:24:21.415Z"
+              "WhenOpened": "2024-10-09T18:36:00.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CarParkingSpot.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\CarParkingSpot.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\CarParkingSpot.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\CarParkingSpot.cs",
-              "RelativeToolTip": "WrongVersion\\CarParkingSpot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:26:22.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BusParkingSpot.cs",
-              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\BusParkingSpot.cs",
-              "RelativeDocumentMoniker": "WrongVersion\\BusParkingSpot.cs",
-              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\WrongVersion\\BusParkingSpot.cs",
-              "RelativeToolTip": "WrongVersion\\BusParkingSpot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:26:40.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u0418\u0437\u043F\u0438\u0442 \u041C\u043E\u0434\u0443\u043B 5, 23.10.2022\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u0418\u0437\u043F\u0438\u0442 \u041C\u043E\u0434\u0443\u043B 5, 23.10.2022\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\Program.cs",
+              "RelativeDocumentMoniker": "DataOrientedVersion\\Program.cs",
+              "ToolTip": "F:\\files\\programs\\C-Sharp-Lessons\\OOP\\ParkingSystem\\DataOrientedVersion\\Program.cs*",
+              "RelativeToolTip": "DataOrientedVersion\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:13:35.446Z"
+              "WhenOpened": "2024-10-09T18:24:10.324Z",
+              "EditorCaption": ""
             }
           ]
         }
